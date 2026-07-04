@@ -1,0 +1,518 @@
+[
+  {
+    "slug": "openai",
+    "name": "OpenAI",
+    "type": "entreprise",
+    "alias": [
+      "Open AI"
+    ],
+    "description": "Entreprise américaine spécialisée en intelligence artificielle.",
+    "popularity": 1,
+    "createdAt": "2026-01-15",
+    "lastUsedAt": "2026-07-04T06:12:00Z"
+  },
+  {
+    "slug": "gpt-6",
+    "name": "GPT-6",
+    "type": "technologie",
+    "alias": [
+      "GPT6"
+    ],
+    "description": "Modèle de langage développé par OpenAI.",
+    "popularity": 1,
+    "createdAt": "2026-07-03",
+    "lastUsedAt": "2026-07-04T06:12:00Z"
+  },
+  {
+    "slug": "microsoft",
+    "name": "Microsoft",
+    "type": "entreprise",
+    "alias": [
+      "MSFT"
+    ],
+    "description": "Géant américain de l'informatique et des services cloud.",
+    "popularity": 1,
+    "createdAt": "2026-01-10",
+    "lastUsedAt": "2026-07-04T06:12:00Z"
+  },
+  {
+    "slug": "ia-generative",
+    "name": "IA générative",
+    "type": "concept",
+    "alias": [
+      "intelligence artificielle générative"
+    ],
+    "description": "Technologies d'IA capables de produire du texte, des images ou du code.",
+    "popularity": 1,
+    "createdAt": "2026-01-12",
+    "lastUsedAt": "2026-07-04T06:12:00Z"
+  },
+  {
+    "slug": "senat",
+    "name": "Sénat",
+    "type": "loi",
+    "alias": [
+      "Le Sénat"
+    ],
+    "description": "Chambre haute du Parlement français.",
+    "popularity": 1,
+    "createdAt": "2026-01-08",
+    "lastUsedAt": "2026-07-04T05:38:00Z"
+  },
+  {
+    "slug": "retraites",
+    "name": "Retraites",
+    "type": "concept",
+    "alias": [
+      "réforme des retraites"
+    ],
+    "description": "Système et réformes des pensions en France.",
+    "popularity": 1,
+    "createdAt": "2026-02-01",
+    "lastUsedAt": "2026-07-04T05:38:00Z"
+  },
+  {
+    "slug": "canicule",
+    "name": "Canicule",
+    "type": "evenement",
+    "alias": [],
+    "description": "Épisodes de fortes chaleurs en France.",
+    "popularity": 1,
+    "createdAt": "2026-06-01",
+    "lastUsedAt": "2026-07-04T04:45:00Z"
+  },
+  {
+    "slug": "ile-de-france",
+    "name": "Île-de-France",
+    "type": "lieu",
+    "alias": [
+      "IDF",
+      "Paris région"
+    ],
+    "description": "Région administrative française incluant Paris.",
+    "popularity": 1,
+    "createdAt": "2026-01-05",
+    "lastUsedAt": "2026-07-04T04:45:00Z"
+  },
+  {
+    "slug": "psg",
+    "name": "PSG",
+    "type": "entreprise",
+    "alias": [
+      "Paris Saint-Germain"
+    ],
+    "description": "Club de football parisien évoluant en Ligue 1.",
+    "popularity": 1,
+    "createdAt": "2026-01-03",
+    "lastUsedAt": "2026-07-04T03:20:00Z"
+  },
+  {
+    "slug": "inflation",
+    "name": "Inflation",
+    "type": "concept",
+    "alias": [],
+    "description": "Hausse générale et durable des prix.",
+    "popularity": 1,
+    "createdAt": "2026-01-20",
+    "lastUsedAt": "2026-07-04T02:10:00Z"
+  },
+  {
+    "slug": "bretagne",
+    "name": "Bretagne",
+    "type": "lieu",
+    "alias": [
+      "La Bretagne"
+    ],
+    "description": "Région administrative de l'ouest de la France.",
+    "popularity": 1,
+    "createdAt": "2026-01-06",
+    "lastUsedAt": "2026-07-04T01:00:00Z"
+  },
+  {
+    "slug": "bitcoin",
+    "name": "Bitcoin",
+    "type": "cryptomonnaie",
+    "alias": [
+      "BTC",
+      "Le Bitcoin"
+    ],
+    "description": "Première et principale cryptomonnaie décentralisée.",
+    "popularity": 1,
+    "createdAt": "2026-01-14",
+    "lastUsedAt": "2026-07-03T22:30:00Z"
+  },
+  {
+    "slug": "rebecca-chaillon",
+    "name": "Rébecca Chaillon",
+    "type": "personne",
+    "alias": [],
+    "description": "Actualité liée à Rébecca Chaillon.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T06:20:00.000Z"
+  },
+  {
+    "slug": "festival-d-avignon",
+    "name": "Festival d’Avignon",
+    "type": "evenement",
+    "alias": [],
+    "description": "Actualité liée à Festival d’Avignon.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T06:20:00.000Z"
+  },
+  {
+    "slug": "saint-petersbourg",
+    "name": "Saint-Pétersbourg",
+    "type": "lieu",
+    "alias": [],
+    "description": "Actualité liée à Saint-Pétersbourg.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T06:16:36.000Z"
+  },
+  {
+    "slug": "ukraine",
+    "name": "Ukraine",
+    "type": "personne",
+    "alias": [],
+    "description": "Actualité liée à Ukraine.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T06:16:36.000Z"
+  },
+  {
+    "slug": "leningrad",
+    "name": "Leningrad",
+    "type": "lieu",
+    "alias": [],
+    "description": "Actualité liée à Leningrad.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T06:16:36.000Z"
+  },
+  {
+    "slug": "france",
+    "name": "France",
+    "type": "lieu",
+    "alias": [
+      "France France"
+    ],
+    "description": "Actualité liée à France.",
+    "popularity": 2,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T07:11:00.000Z"
+  },
+  {
+    "slug": "paul-seixas",
+    "name": "Paul Seixas",
+    "type": "personne",
+    "alias": [],
+    "description": "Actualité liée à Paul Seixas.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T07:04:24.000Z"
+  },
+  {
+    "slug": "tadej-pogacar",
+    "name": "Tadej Pogacar",
+    "type": "personne",
+    "alias": [],
+    "description": "Actualité liée à Tadej Pogacar.",
+    "popularity": 2,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T07:04:24.000Z"
+  },
+  {
+    "slug": "jonas-vingegaard",
+    "name": "Jonas Vingegaard",
+    "type": "personne",
+    "alias": [],
+    "description": "Actualité liée à Jonas Vingegaard.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T07:04:24.000Z"
+  },
+  {
+    "slug": "tour-de-france",
+    "name": "Tour de France",
+    "type": "evenement",
+    "alias": [],
+    "description": "Actualité liée à Tour de France.",
+    "popularity": 2,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T07:04:24.000Z"
+  },
+  {
+    "slug": "barcelone",
+    "name": "Barcelone",
+    "type": "lieu",
+    "alias": [],
+    "description": "Actualité liée à Barcelone.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T07:04:24.000Z"
+  },
+  {
+    "slug": "penestin",
+    "name": "Pénestin",
+    "type": "lieu",
+    "alias": [],
+    "description": "Actualité liée à Pénestin.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T07:00:23.000Z"
+  },
+  {
+    "slug": "morbihan",
+    "name": "Morbihan",
+    "type": "lieu",
+    "alias": [],
+    "description": "Actualité liée à Morbihan.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T07:00:23.000Z"
+  },
+  {
+    "slug": "les-iles",
+    "name": "Les îles",
+    "type": "lieu",
+    "alias": [],
+    "description": "Actualité liée à Les îles.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T07:00:23.000Z"
+  },
+  {
+    "slug": "maladie-des-petits-vaisseaux-cerebraux",
+    "name": "maladie des petits vaisseaux cérébraux",
+    "type": "concept",
+    "alias": [],
+    "description": "Actualité liée à maladie des petits vaisseaux cérébraux.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T07:00:22.000Z"
+  },
+  {
+    "slug": "accidents-vasculaires-cerebraux-avc",
+    "name": "accidents vasculaires cérébraux (AVC)",
+    "type": "concept",
+    "alias": [],
+    "description": "Actualité liée à accidents vasculaires cérébraux (AVC).",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T07:00:22.000Z"
+  },
+  {
+    "slug": "france-des",
+    "name": "France Des",
+    "type": "personne",
+    "alias": [],
+    "description": "France Des est une personnalité française engagée dans des initiatives culturelles et sociales, influençant le débat public.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T07:11:00.000Z"
+  },
+  {
+    "slug": "eratures-elevees",
+    "name": "ératures élevées",
+    "type": "personne",
+    "alias": [],
+    "description": "Personnes ayant un niveau d'éducation supérieur, souvent impliquées dans des domaines académiques ou professionnels spécialisés.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T07:11:00.000Z"
+  },
+  {
+    "slug": "le-tour",
+    "name": "Le Tour",
+    "type": "personne",
+    "alias": [],
+    "description": "\"Le Tour\" désigne une compétition cycliste annuelle, rassemblant des coureurs du monde entier sur plusieurs étapes.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T07:04:24.000Z"
+  },
+  {
+    "slug": "ere-etape",
+    "name": "ère étape",
+    "type": "personne",
+    "alias": [],
+    "description": "\"Une personne franchit une étape clé dans son parcours, marquant un tournant significatif dans sa vie ou sa carrière.\"",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T07:04:24.000Z"
+  },
+  {
+    "slug": "ali-khamenei",
+    "name": "Ali Khamenei",
+    "type": "personne",
+    "alias": [],
+    "description": "Ali Khamenei est le Guide suprême d'Iran, en poste depuis 1989, influençant la politique et la religion du pays.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T06:36:22.000Z"
+  },
+  {
+    "slug": "orient-la",
+    "name": "Orient La",
+    "type": "personne",
+    "alias": [],
+    "description": "Orient La est un expert en géopolitique, analysant les enjeux du Moyen-Orient et leurs impacts sur la France.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T06:36:22.000Z"
+  },
+  {
+    "slug": "emes-economiques",
+    "name": "èmes économiques",
+    "type": "personne",
+    "alias": [],
+    "description": "Analyse des tendances économiques et des politiques publiques par des experts et économistes français.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T06:34:00.000Z"
+  },
+  {
+    "slug": "esident-subianto",
+    "name": "ésident Subianto",
+    "type": "personne",
+    "alias": [],
+    "description": "Prabowo Subianto, homme politique indonésien, ancien général et ministre de la Défense, candidat à la présidence.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T06:34:00.000Z"
+  },
+  {
+    "slug": "eismes-la",
+    "name": "éismes La",
+    "type": "personne",
+    "alias": [],
+    "description": "Éismes La est une personnalité influente dans le domaine de la culture et des arts en France.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T06:21:23.000Z"
+  },
+  {
+    "slug": "ene-rebecca",
+    "name": "ène Rébecca",
+    "type": "personne",
+    "alias": [],
+    "description": "Rébecca est une personnalité française engagée, connue pour ses contributions dans le domaine social et culturel.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T06:20:00.000Z"
+  },
+  {
+    "slug": "petersbourg-samedi",
+    "name": "Pétersbourg Samedi",
+    "type": "personne",
+    "alias": [],
+    "description": "\"Pétersbourg Samedi\" est un personnage engagé, passionné par la culture et l'histoire de Saint-Pétersbourg.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T06:16:36.000Z"
+  },
+  {
+    "slug": "san-francisco",
+    "name": "San Francisco",
+    "type": "personne",
+    "alias": [],
+    "description": "San Francisco, ville emblématique de Californie, est connue pour son pont Golden Gate et sa culture diversifiée.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T06:12:00Z"
+  },
+  {
+    "slug": "paris",
+    "name": "Paris",
+    "type": "lieu",
+    "alias": [],
+    "description": "Paris, capitale de la France, est connue pour son histoire, sa culture, ses monuments emblématiques et sa diversité.",
+    "popularity": 2,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T04:45:00Z"
+  },
+  {
+    "slug": "le-parisien",
+    "name": "Le Parisien",
+    "type": "personne",
+    "alias": [],
+    "description": "\"Le Parisien\" est un quotidien français d'information générale, fondé en 1944, couvrant l'actualité nationale et internationale.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T04:45:00Z"
+  },
+  {
+    "slug": "marseille",
+    "name": "Marseille",
+    "type": "lieu",
+    "alias": [
+      "Marseille Le"
+    ],
+    "description": "Marseille, deuxième ville de France, est un port méditerranéen connu pour sa diversité culturelle et son patrimoine historique.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T03:20:00Z"
+  },
+  {
+    "slug": "paris-saint",
+    "name": "Paris Saint",
+    "type": "personne",
+    "alias": [],
+    "description": "Paris Saint est un personnage emblématique du football français, souvent associé au Paris Saint-Germain.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T03:20:00Z"
+  },
+  {
+    "slug": "kylian-mbapp",
+    "name": "Kylian Mbapp",
+    "type": "personne",
+    "alias": [],
+    "description": "Kylian Mbappé, footballeur français, évolue au Paris Saint-Germain et est connu pour sa rapidité et son talent offensif.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T03:20:00Z"
+  },
+  {
+    "slug": "luis-enrique",
+    "name": "Luis Enrique",
+    "type": "personne",
+    "alias": [],
+    "description": "Luis Enrique est un entraîneur de football espagnol, ancien joueur et sélectionneur de l'équipe nationale d'Espagne.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T03:20:00Z"
+  },
+  {
+    "slug": "la-banque",
+    "name": "La Banque",
+    "type": "personne",
+    "alias": [],
+    "description": "\"La Banque\" est une institution financière qui gère des dépôts, accorde des crédits et facilite les transactions économiques.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T02:10:00Z"
+  },
+  {
+    "slug": "les-ecologistes",
+    "name": "Les écologistes",
+    "type": "personne",
+    "alias": [],
+    "description": "Les écologistes militent pour la protection de l'environnement et la promotion de pratiques durables en France.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T01:00:00Z"
+  },
+  {
+    "slug": "ethereum",
+    "name": "Ethereum",
+    "type": "cryptomonnaie",
+    "alias": [],
+    "description": "Ethereum est une plateforme décentralisée permettant de créer des contrats intelligents et des applications blockchain.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-03T22:30:00Z"
+  }
+]

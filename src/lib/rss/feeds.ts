@@ -1,0 +1,83 @@
+import type { RssFeedConfig } from "@/lib/rss/types";
+
+export const rssFeeds: RssFeedConfig[] = [
+  {
+    id: "france-info",
+    name: "France Info",
+    url: "https://www.francetvinfo.fr/titres.rss",
+    defaultCategorySlug: "politique",
+  },
+  {
+    id: "le-monde",
+    name: "Le Monde",
+    url: "https://www.lemonde.fr/rss/une.xml",
+    defaultCategorySlug: "politique",
+  },
+  {
+    id: "le-monde-international",
+    name: "Le Monde International",
+    url: "https://www.lemonde.fr/international/rss_full.xml",
+    defaultCategorySlug: "international",
+  },
+  {
+    id: "le-figaro",
+    name: "Le Figaro",
+    url: "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+    defaultCategorySlug: "politique",
+  },
+  {
+    id: "liberation",
+    name: "Libération",
+    url: "https://www.liberation.fr/arc/outboundfeeds/rss-all/",
+    defaultCategorySlug: "politique",
+  },
+  {
+    id: "20-minutes",
+    name: "20 Minutes",
+    url: "https://www.20minutes.fr/rss/une.xml",
+    defaultCategorySlug: "faits-divers",
+  },
+  {
+    id: "ouest-france",
+    name: "Ouest-France",
+    url: "https://www.ouest-france.fr/rss-en-continu.xml",
+    defaultCategorySlug: "politique",
+  },
+  {
+    id: "france24",
+    name: "France 24",
+    url: "https://www.france24.com/fr/rss",
+    defaultCategorySlug: "international",
+  },
+];
+
+export const validCategorySlugs = [
+  "intelligence-artificielle",
+  "automobile",
+  "culture",
+  "cybersecurite",
+  "divertissement",
+  "economie",
+  "education",
+  "energie",
+  "climat-meteo",
+  "emploi",
+  "entreprise",
+  "finance",
+  "faits-divers",
+  "jeux-video",
+  "justice",
+  "livre",
+  "musique",
+  "immobilier",
+  "international",
+  "politique",
+  "reseaux-sociaux",
+  "sante",
+  "sciences",
+  "sport",
+  "start-up",
+  "technologie",
+  "transport",
+  "voyage",
+] as const;
