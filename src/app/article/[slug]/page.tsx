@@ -83,12 +83,6 @@ export default async function ArticlePage({ params }: PageProps) {
         </div>
       </header>
 
-      <div className="mb-6 rounded-xl border border-accent/20 bg-accent-muted/30 px-4 py-3 text-sm text-muted-foreground">
-        Synthèse générée par l&apos;IA Limo · Basée sur {article.sources.length}{" "}
-        source{article.sources.length > 1 ? "s" : ""} indépendante
-        {article.sources.length > 1 ? "s" : ""}
-      </div>
-
       <div className="space-y-4 text-base leading-relaxed text-foreground/90">
         {article.summary.map((paragraph, i) => (
           <p key={i}>{paragraph}</p>

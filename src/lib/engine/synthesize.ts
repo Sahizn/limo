@@ -101,7 +101,6 @@ function synthesizeFallback(input: SynthesisInput): SynthesisOutput {
       ? sentences
       : [
           description.slice(0, 280) + (description.length > 280 ? "…" : ""),
-          `Cette synthèse provisoire est basée sur ${input.items.length} source(s). Configurez OPENAI_API_KEY pour activer la synthèse IA complète.`,
         ];
 
   return {

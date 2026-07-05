@@ -25,7 +25,7 @@ export function Footer() {
           </nav>
         </div>
         <p className="mt-8 text-xs text-muted">
-          Synthèses générées par l&apos;IA Limo · Sources citées sur chaque article
+          Sources citées sur chaque article
         </p>
       </div>
     </footer>

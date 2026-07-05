@@ -3,10 +3,24 @@ import { readJsonFile, writeJsonFile } from "@/lib/storage/json";
 import { seedArticles } from "@/lib/data/seed-articles";
 
 const FILE = "articles.json";
+export const MAX_ARTICLE_AGE_DAYS = 7;
+
+async function getStoredArticles(): Promise<Article[]> {
+  return readJsonFile<Article[]>(FILE, seedArticles);
+}
+
+function isRecentArticle(article: Article): boolean {
+  const cutoff = Date.now() - MAX_ARTICLE_AGE_DAYS * 24 * 60 * 60 * 1000;
+  return new Date(article.publishedAt).getTime() >= cutoff;
+}
+
+function filterRecentArticles(articles: Article[]): Article[] {
+  return articles.filter(isRecentArticle);
+}
 
 export async function getAllArticles(): Promise<Article[]> {
-  const articles = await readJsonFile<Article[]>(FILE, seedArticles);
-  return [...articles].sort(
+  const articles = await getStoredArticles();
+  return filterRecentArticles(articles).sort(
     (a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime()
   );
 }
@@ -31,7 +45,7 @@ export async function saveArticles(articles: Article[]): Promise<void> {
 }
 
 export async function upsertArticle(article: Article): Promise<void> {
-  const articles = await readJsonFile<Article[]>(FILE, seedArticles);
+  const articles = await getStoredArticles();
   const index = articles.findIndex((a) => a.slug === article.slug);
 
   if (index >= 0) {
@@ -44,7 +58,7 @@ export async function upsertArticle(article: Article): Promise<void> {
 }
 
 export async function articleExistsBySourceUrl(url: string): Promise<boolean> {
-  const articles = await getAllArticles();
+  const articles = await getStoredArticles();
   return articles.some((a) => a.sourceUrls?.includes(url) || a.sources.some((s) => s.url === url));
 }
 
@@ -52,3 +66,6 @@ export async function getArticleSlugs(): Promise<string[]> {
   const articles = await getAllArticles();
   return articles.map((a) => a.slug);
 }
+
+/** Lecture interne sans filtre de date (ingestion, maintenance). */
+export { getStoredArticles };

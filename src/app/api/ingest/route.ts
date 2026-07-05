@@ -30,6 +30,7 @@ export async function POST(request: NextRequest) {
     revalidatePath("/");
     revalidatePath("/categories");
     revalidatePath("/recherche");
+    revalidatePath("/tags");
 
     return NextResponse.json({
       success: true,

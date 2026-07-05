@@ -124,9 +124,9 @@
       "La Bretagne"
     ],
     "description": "Région administrative de l'ouest de la France.",
-    "popularity": 1,
+    "popularity": 2,
     "createdAt": "2026-01-06",
-    "lastUsedAt": "2026-07-04T01:00:00Z"
+    "lastUsedAt": "2026-07-04T12:15:00.000Z"
   },
   {
     "slug": "bitcoin",
@@ -199,9 +199,9 @@
       "France France"
     ],
     "description": "Actualité liée à France.",
-    "popularity": 2,
+    "popularity": 4,
     "createdAt": "2026-07-04",
-    "lastUsedAt": "2026-07-04T07:11:00.000Z"
+    "lastUsedAt": "2026-07-04T12:17:54.000Z"
   },
   {
     "slug": "paul-seixas",
@@ -349,9 +349,9 @@
     "type": "personne",
     "alias": [],
     "description": "Ali Khamenei est le Guide suprême d'Iran, en poste depuis 1989, influençant la politique et la religion du pays.",
-    "popularity": 1,
+    "popularity": 2,
     "createdAt": "2026-07-04",
-    "lastUsedAt": "2026-07-04T06:36:22.000Z"
+    "lastUsedAt": "2026-07-04T11:37:31.000Z"
   },
   {
     "slug": "orient-la",
@@ -451,9 +451,9 @@
       "Marseille Le"
     ],
     "description": "Marseille, deuxième ville de France, est un port méditerranéen connu pour sa diversité culturelle et son patrimoine historique.",
-    "popularity": 1,
+    "popularity": 2,
     "createdAt": "2026-07-04",
-    "lastUsedAt": "2026-07-04T03:20:00Z"
+    "lastUsedAt": "2026-07-04T11:49:56.000Z"
   },
   {
     "slug": "paris-saint",
@@ -514,5 +514,309 @@
     "popularity": 1,
     "createdAt": "2026-07-04",
     "lastUsedAt": "2026-07-03T22:30:00Z"
+  },
+  {
+    "slug": "argentine",
+    "name": "Argentine",
+    "type": "personne",
+    "alias": [],
+    "description": "L'Argentine, pays d'Amérique du Sud, est connue pour sa culture riche, ses paysages variés et son histoire tumultueuse.",
+    "popularity": 2,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T12:05:26.000Z"
+  },
+  {
+    "slug": "cap-vert",
+    "name": "Cap-Vert",
+    "type": "lieu",
+    "alias": [],
+    "description": "Le Cap-Vert est un archipel volcanique situé dans l'océan Atlantique, au large des côtes africaines.",
+    "popularity": 2,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T12:05:26.000Z"
+  },
+  {
+    "slug": "coupe-du-monde",
+    "name": "Coupe du monde",
+    "type": "evenement",
+    "alias": [],
+    "description": "La Coupe du Monde est un tournoi international de football, réunissant les meilleures équipes nationales tous les quatre ans.",
+    "popularity": 2,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T12:17:54.000Z"
+  },
+  {
+    "slug": "chloe-aldrovandi",
+    "name": "Chloé Aldrovandi",
+    "type": "personne",
+    "alias": [],
+    "description": "Chloé Aldrovandi est une journaliste française spécialisée dans l'actualité politique et sociale.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T11:49:56.000Z"
+  },
+  {
+    "slug": "corse-le",
+    "name": "Corse Le",
+    "type": "personne",
+    "alias": [],
+    "description": "Corse Le est un homme politique français, engagé dans la défense des intérêts corses et la promotion de l'autonomie de l'île.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T11:49:56.000Z"
+  },
+  {
+    "slug": "teheran",
+    "name": "Téhéran",
+    "type": "lieu",
+    "alias": [],
+    "description": "Téhéran, capitale de l'Iran, est un centre politique, économique et culturel, avec une population d'environ 9 millions d'habitants.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T11:37:31.000Z"
+  },
+  {
+    "slug": "grande-mosalla",
+    "name": "Grande Mosalla",
+    "type": "lieu",
+    "alias": [],
+    "description": "La Grande Mosalla est un lieu de culte musulman situé à Strasbourg, connu pour son architecture moderne et ses activités communautaires.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T11:37:31.000Z"
+  },
+  {
+    "slug": "teheran-les",
+    "name": "Téhéran Les",
+    "type": "personne",
+    "alias": [],
+    "description": "Téhéran Les est un expert en relations internationales, spécialisé dans les dynamiques géopolitiques du Moyen-Orient.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T11:37:31.000Z"
+  },
+  {
+    "slug": "bison-fute",
+    "name": "Bison futé",
+    "type": "entreprise",
+    "alias": [],
+    "description": "Bison futé informe sur les conditions de circulation et les prévisions de trafic en France, notamment lors des départs en vacances.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T11:22:11.000Z"
+  },
+  {
+    "slug": "lampedusa",
+    "name": "Lampedusa",
+    "type": "lieu",
+    "alias": [],
+    "description": "Lampedusa est une île italienne en Méditerranée, connue pour être un point d'arrivée pour les migrants.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T11:17:30.000Z"
+  },
+  {
+    "slug": "leon-xiv",
+    "name": "Léon XIV",
+    "type": "personne",
+    "alias": [],
+    "description": "Léon XIV est un personnage historique, souvent associé à des débats sur la monarchie et la politique en France.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T11:17:30.000Z"
+  },
+  {
+    "slug": "union-europeenne",
+    "name": "Union européenne",
+    "type": "concept",
+    "alias": [],
+    "description": "L'Union européenne est une organisation politique et économique regroupant 27 États membres en Europe, favorisant la coopération.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T11:17:30.000Z"
+  },
+  {
+    "slug": "lampedusa-lors",
+    "name": "Lampedusa Lors",
+    "type": "personne",
+    "alias": [],
+    "description": "Lampedusa Lors est un militant engagé dans la défense des droits des migrants sur l'île de Lampedusa, en Italie.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T11:17:30.000Z"
+  },
+  {
+    "slug": "paraguay",
+    "name": "Paraguay",
+    "type": "lieu",
+    "alias": [],
+    "description": "Le Paraguay, pays d'Amérique du Sud, est bordé par le Brésil, l'Argentine et la Bolivie, avec Asunción comme capitale.",
+    "popularity": 2,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T12:17:54.000Z"
+  },
+  {
+    "slug": "philadelphie",
+    "name": "Philadelphie",
+    "type": "lieu",
+    "alias": [],
+    "description": "Philadelphie, ville américaine, est connue pour son histoire révolutionnaire et ses monuments emblématiques comme l'Independence Hall.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T12:17:54.000Z"
+  },
+  {
+    "slug": "la-rochelle",
+    "name": "La Rochelle",
+    "type": "lieu",
+    "alias": [],
+    "description": "La Rochelle est une ville portuaire de la côte atlantique, connue pour son vieux port et son patrimoine historique.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T12:15:00.000Z"
+  },
+  {
+    "slug": "festival-du-film",
+    "name": "festival du film",
+    "type": "evenement",
+    "alias": [],
+    "description": "Le festival du film présente des projections de films, des rencontres avec des réalisateurs et des débats autour du cinéma.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T12:15:00.000Z"
+  },
+  {
+    "slug": "drome",
+    "name": "Drôme",
+    "type": "lieu",
+    "alias": [],
+    "description": "La Drôme est un département français, situé dans la région Auvergne-Rhône-Alpes, connu pour ses paysages variés et son patrimoine.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T12:08:18.000Z"
+  },
+  {
+    "slug": "canadair",
+    "name": "Canadair",
+    "type": "technologie",
+    "alias": [],
+    "description": "Le Canadair est un avion amphibie utilisé pour la lutte contre les incendies, capable de larguer de l'eau sur les feux.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T12:08:18.000Z"
+  },
+  {
+    "slug": "eriennes-un",
+    "name": "ériennes Un",
+    "type": "personne",
+    "alias": [],
+    "description": "Ériennes Un est une personnalité engagée dans les droits humains et la justice sociale en France.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T12:08:18.000Z"
+  },
+  {
+    "slug": "maroc",
+    "name": "Maroc",
+    "type": "lieu",
+    "alias": [
+      "Le Maroc"
+    ],
+    "description": "Le Maroc, pays d'Afrique du Nord, est connu pour sa culture riche, ses paysages variés et ses villes historiques.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T12:05:31.000Z"
+  },
+  {
+    "slug": "canada",
+    "name": "Canada",
+    "type": "lieu",
+    "alias": [
+      "Le Canada"
+    ],
+    "description": "Le Canada est un pays d'Amérique du Nord, connu pour sa diversité culturelle et ses vastes paysages naturels.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T12:05:31.000Z"
+  },
+  {
+    "slug": "aurelien-tchouameni",
+    "name": "Aurélien Tchouaméni",
+    "type": "personne",
+    "alias": [],
+    "description": "Aurélien Tchouaméni est un footballeur français, milieu de terrain, évoluant au Real Madrid et en équipe nationale.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T12:05:31.000Z"
+  },
+  {
+    "slug": "mohamed-salah",
+    "name": "Mohamed Salah",
+    "type": "personne",
+    "alias": [],
+    "description": "Mohamed Salah, footballeur égyptien, évolue au poste d'ailier et joue pour Liverpool en Premier League.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T12:05:26.000Z"
+  },
+  {
+    "slug": "egypte",
+    "name": "Égypte",
+    "type": "lieu",
+    "alias": [],
+    "description": "L'Égypte, pays d'Afrique du Nord, est célèbre pour ses pyramides, le Nil et son riche patrimoine historique.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T12:05:26.000Z"
+  },
+  {
+    "slug": "australie",
+    "name": "Australie",
+    "type": "lieu",
+    "alias": [],
+    "description": "L'Australie est un pays-continent situé dans l'hémisphère sud, connu pour sa biodiversité et ses paysages variés.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T12:05:26.000Z"
+  },
+  {
+    "slug": "ghana",
+    "name": "Ghana",
+    "type": "lieu",
+    "alias": [],
+    "description": "Le Ghana, pays d'Afrique de l'Ouest, est connu pour sa riche culture, ses parcs nationaux et ses ressources naturelles.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T12:05:26.000Z"
+  },
+  {
+    "slug": "colombie",
+    "name": "Colombie",
+    "type": "lieu",
+    "alias": [],
+    "description": "La Colombie, pays d'Amérique du Sud, est connue pour sa biodiversité, ses montagnes, et ses cultures variées.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T12:05:26.000Z"
+  },
+  {
+    "slug": "vert-lors",
+    "name": "Vert Lors",
+    "type": "personne",
+    "alias": [],
+    "description": "Vert Lors est un expert en écologie, engagé dans la promotion de pratiques durables et de la sensibilisation environnementale.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T12:05:26.000Z"
+  },
+  {
+    "slug": "les-capverdiens",
+    "name": "Les Capverdiens",
+    "type": "personne",
+    "alias": [],
+    "description": "Les Capverdiens sont les habitants de l'archipel du Cap-Vert, situé au large des côtes africaines.",
+    "popularity": 1,
+    "createdAt": "2026-07-04",
+    "lastUsedAt": "2026-07-04T12:05:26.000Z"
   }
 ]

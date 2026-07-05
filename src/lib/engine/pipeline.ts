@@ -9,7 +9,7 @@ import { resolveEntities } from "@/lib/engine/tag-resolver";
 import { syncTagStats } from "@/lib/engine/tag-analytics";
 import {
   articleExistsBySourceUrl,
-  getAllArticles,
+  getStoredArticles,
   saveArticles,
 } from "@/lib/storage/articles";
 import { getProcessedUrls, markUrlsProcessed } from "@/lib/storage/processed";
@@ -109,7 +109,7 @@ export async function runIngestion(options?: {
   const [allItems, processedUrls, existingArticles] = await Promise.all([
     fetchAllFeeds(6),
     getProcessedUrls(),
-    getAllArticles(),
+    getStoredArticles(),
   ]);
 
   result.fetched = allItems.length;
