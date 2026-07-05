@@ -9,6 +9,7 @@
     "lint": "next lint",
     "ingest": "tsx scripts/ingest.ts",
     "retag": "tsx scripts/retag.ts",
+    "seed-blob": "tsx scripts/seed-blob.ts",
     "init-store": "tsx scripts/init-store.ts",
     "postinstall": "tsx scripts/init-store.ts"
   },

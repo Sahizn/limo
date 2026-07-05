@@ -6,7 +6,9 @@ const DATA_DIR = path.join(process.cwd(), "data", "store");
 const BLOB_PREFIX = "limo/store/";
 
 function shouldUseBlobStorage(): boolean {
-  return Boolean(process.env.BLOB_READ_WRITE_TOKEN);
+  // Ancien mode : BLOB_READ_WRITE_TOKEN
+  // Nouveau mode Vercel : BLOB_STORE_ID + OIDC (automatique sur Vercel)
+  return Boolean(process.env.BLOB_READ_WRITE_TOKEN || process.env.BLOB_STORE_ID);
 }
 
 async function ensureDataDir() {
