@@ -177,9 +177,9 @@
     "type": "personne",
     "alias": [],
     "description": "Actualité liée à Ukraine.",
-    "popularity": 1,
+    "popularity": 2,
     "createdAt": "2026-07-04",
-    "lastUsedAt": "2026-07-04T06:16:36.000Z"
+    "lastUsedAt": "2026-07-05T20:50:57.000Z"
   },
   {
     "slug": "leningrad",
@@ -239,9 +239,9 @@
     "type": "evenement",
     "alias": [],
     "description": "Actualité liée à Tour de France.",
-    "popularity": 2,
+    "popularity": 3,
     "createdAt": "2026-07-04",
-    "lastUsedAt": "2026-07-04T07:04:24.000Z"
+    "lastUsedAt": "2026-07-05T21:13:16.000Z"
   },
   {
     "slug": "barcelone",
@@ -541,9 +541,9 @@
     "type": "evenement",
     "alias": [],
     "description": "La Coupe du Monde est un tournoi international de football, réunissant les meilleures équipes nationales tous les quatre ans.",
-    "popularity": 2,
+    "popularity": 3,
     "createdAt": "2026-07-04",
-    "lastUsedAt": "2026-07-04T12:17:54.000Z"
+    "lastUsedAt": "2026-07-05T21:16:03.000Z"
   },
   {
     "slug": "chloe-aldrovandi",
@@ -818,5 +818,237 @@
     "popularity": 1,
     "createdAt": "2026-07-04",
     "lastUsedAt": "2026-07-04T12:05:26.000Z"
+  },
+  {
+    "slug": "bresil",
+    "name": "Brésil",
+    "type": "lieu",
+    "alias": [],
+    "description": "Le Brésil, pays d'Amérique du Sud, est connu pour sa biodiversité, ses plages et sa culture riche, notamment le carnaval.",
+    "popularity": 1,
+    "createdAt": "2026-07-05",
+    "lastUsedAt": "2026-07-05T21:16:03.000Z"
+  },
+  {
+    "slug": "norvege",
+    "name": "Norvège",
+    "type": "lieu",
+    "alias": [],
+    "description": "La Norvège, pays scandinave, est connue pour ses fjords, ses paysages montagneux et sa riche culture viking.",
+    "popularity": 1,
+    "createdAt": "2026-07-05",
+    "lastUsedAt": "2026-07-05T21:16:03.000Z"
+  },
+  {
+    "slug": "erling-haaland",
+    "name": "Erling Haaland",
+    "type": "personne",
+    "alias": [],
+    "description": "Erling Haaland, attaquant norvégien, évolue au Manchester City FC et est connu pour sa puissance et son efficacité devant le but.",
+    "popularity": 1,
+    "createdAt": "2026-07-05",
+    "lastUsedAt": "2026-07-05T21:16:03.000Z"
+  },
+  {
+    "slug": "new-york",
+    "name": "New York",
+    "type": "personne",
+    "alias": [],
+    "description": "Un habitant de New York partage son expérience quotidienne dans une ville dynamique et multiculturelle.",
+    "popularity": 1,
+    "createdAt": "2026-07-05",
+    "lastUsedAt": "2026-07-05T21:16:03.000Z"
+  },
+  {
+    "slug": "la-selecao",
+    "name": "La Seleçao",
+    "type": "personne",
+    "alias": [],
+    "description": "\"La Seleçao\" désigne l'équipe nationale de football du Brésil, reconnue pour ses succès en Coupe du Monde.",
+    "popularity": 1,
+    "createdAt": "2026-07-05",
+    "lastUsedAt": "2026-07-05T21:16:03.000Z"
+  },
+  {
+    "slug": "donald-trump",
+    "name": "Donald Trump",
+    "type": "personne",
+    "alias": [],
+    "description": "Donald Trump, ancien président des États-Unis, est une figure politique controversée, connue pour ses positions populistes.",
+    "popularity": 1,
+    "createdAt": "2026-07-05",
+    "lastUsedAt": "2026-07-05T21:16:03.000Z"
+  },
+  {
+    "slug": "pyrenees-orientales",
+    "name": "Pyrénées-Orientales",
+    "type": "lieu",
+    "alias": [],
+    "description": "Les Pyrénées-Orientales, département du sud de la France, offrent montagnes, plages et patrimoine culturel riche.",
+    "popularity": 1,
+    "createdAt": "2026-07-05",
+    "lastUsedAt": "2026-07-05T21:13:16.000Z"
+  },
+  {
+    "slug": "es-actuellement",
+    "name": "és Actuellement",
+    "type": "personne",
+    "alias": [],
+    "description": "\"État des lieux des personnalités influentes et des événements marquants en France, analysés en temps réel.\"",
+    "popularity": 1,
+    "createdAt": "2026-07-05",
+    "lastUsedAt": "2026-07-05T21:13:16.000Z"
+  },
+  {
+    "slug": "stephen-francis",
+    "name": "Stephen Francis",
+    "type": "personne",
+    "alias": [],
+    "description": "Stephen Francis est un écrivain et poète connu pour ses œuvres explorant la culture et l'identité.",
+    "popularity": 1,
+    "createdAt": "2026-07-05",
+    "lastUsedAt": "2026-07-05T21:09:26.000Z"
+  },
+  {
+    "slug": "shelly-ann-fraser-pryce",
+    "name": "Shelly-Ann Fraser-Pryce",
+    "type": "personne",
+    "alias": [],
+    "description": "Shelly-Ann Fraser-Pryce est une sprinteuse jamaïcaine, double championne olympique du 100 mètres et détentrice de plusieurs records.",
+    "popularity": 1,
+    "createdAt": "2026-07-05",
+    "lastUsedAt": "2026-07-05T21:09:26.000Z"
+  },
+  {
+    "slug": "shericka-jackson",
+    "name": "Shericka Jackson",
+    "type": "personne",
+    "alias": [],
+    "description": "Shericka Jackson est une athlète jamaïcaine spécialisée dans le sprint, médaillée aux Championnats du monde et aux JO.",
+    "popularity": 1,
+    "createdAt": "2026-07-05",
+    "lastUsedAt": "2026-07-05T21:09:26.000Z"
+  },
+  {
+    "slug": "asafa-powell",
+    "name": "Asafa Powell",
+    "type": "personne",
+    "alias": [],
+    "description": "Asafa Powell, sprinteur jamaïcain, est connu pour ses performances exceptionnelles sur 100 mètres et ses records du monde.",
+    "popularity": 1,
+    "createdAt": "2026-07-05",
+    "lastUsedAt": "2026-07-05T21:09:26.000Z"
+  },
+  {
+    "slug": "elaine-thompson-herah",
+    "name": "Elaine Thompson-Herah",
+    "type": "personne",
+    "alias": [],
+    "description": "Elaine Thompson-Herah est une athlète jamaïcaine, spécialiste du sprint, double championne olympique en 100m et 200m.",
+    "popularity": 1,
+    "createdAt": "2026-07-05",
+    "lastUsedAt": "2026-07-05T21:09:26.000Z"
+  },
+  {
+    "slug": "icain-stephen",
+    "name": "ïcain Stephen",
+    "type": "personne",
+    "alias": [],
+    "description": "Stephen est un auteur et conférencier français, connu pour ses réflexions sur la société contemporaine et la culture.",
+    "popularity": 1,
+    "createdAt": "2026-07-05",
+    "lastUsedAt": "2026-07-05T21:09:26.000Z"
+  },
+  {
+    "slug": "ann-fraser",
+    "name": "Ann Fraser",
+    "type": "personne",
+    "alias": [],
+    "description": "Ann Fraser est une experte en développement durable, engagée dans la promotion des énergies renouvelables en France.",
+    "popularity": 1,
+    "createdAt": "2026-07-05",
+    "lastUsedAt": "2026-07-05T21:09:26.000Z"
+  },
+  {
+    "slug": "elaine-thompson",
+    "name": "Elaine Thompson",
+    "type": "personne",
+    "alias": [],
+    "description": "Elaine Thompson est une athlète jamaïcaine, spécialiste du sprint, double championne olympique du 100 m et 200 m.",
+    "popularity": 1,
+    "createdAt": "2026-07-05",
+    "lastUsedAt": "2026-07-05T21:09:26.000Z"
+  },
+  {
+    "slug": "francis-etait",
+    "name": "Francis était",
+    "type": "personne",
+    "alias": [],
+    "description": "Francis était un écrivain français reconnu pour ses œuvres sur la condition humaine et la société contemporaine.",
+    "popularity": 1,
+    "createdAt": "2026-07-05",
+    "lastUsedAt": "2026-07-05T21:09:26.000Z"
+  },
+  {
+    "slug": "gard",
+    "name": "Gard",
+    "type": "lieu",
+    "alias": [],
+    "description": "Le Gard est un département du sud de la France, connu pour ses paysages variés et son patrimoine historique.",
+    "popularity": 1,
+    "createdAt": "2026-07-05",
+    "lastUsedAt": "2026-07-05T21:03:54.000Z"
+  },
+  {
+    "slug": "a9",
+    "name": "A9",
+    "type": "produit",
+    "alias": [],
+    "description": "Le A9 est un smartphone doté d'un écran de 6,5 pouces, d'un processeur octa-core et d'une batterie de 4000 mAh.",
+    "popularity": 1,
+    "createdAt": "2026-07-05",
+    "lastUsedAt": "2026-07-05T21:03:54.000Z"
+  },
+  {
+    "slug": "volodymyr-zelensky",
+    "name": "Volodymyr Zelensky",
+    "type": "personne",
+    "alias": [],
+    "description": "Volodymyr Zelensky, président de l'Ukraine depuis 2019, est un ancien comédien et producteur de télévision.",
+    "popularity": 1,
+    "createdAt": "2026-07-05",
+    "lastUsedAt": "2026-07-05T20:50:57.000Z"
+  },
+  {
+    "slug": "kostyantynivka",
+    "name": "Kostyantynivka",
+    "type": "lieu",
+    "alias": [
+      "Kostyantynivka Le"
+    ],
+    "description": "Kostyantynivka est une ville située dans l'est de l'Ukraine, dans la région de Donetsk, touchée par le conflit armé.",
+    "popularity": 1,
+    "createdAt": "2026-07-05",
+    "lastUsedAt": "2026-07-05T20:50:57.000Z"
+  },
+  {
+    "slug": "kremlin",
+    "name": "Kremlin",
+    "type": "lieu",
+    "alias": [],
+    "description": "Le Kremlin est le complexe fortifié à Moscou, siège du gouvernement russe et symbole du pouvoir politique.",
+    "popularity": 1,
+    "createdAt": "2026-07-05",
+    "lastUsedAt": "2026-07-05T20:50:57.000Z"
+  },
+  {
+    "slug": "russie",
+    "name": "Russie",
+    "type": "personne",
+    "alias": [],
+    "description": "La Russie, pays d'Eurasie, est dirigée par Vladimir Poutine, président depuis 2000, avec une influence mondiale significative.",
+    "popularity": 1,
+    "createdAt": "2026-07-05",
+    "lastUsedAt": "2026-07-05T20:50:57.000Z"
   }
 ]

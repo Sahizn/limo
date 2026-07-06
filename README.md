@@ -79,9 +79,25 @@ En production, protégez l'endpoint avec `CRON_SECRET` dans les headers.
 npm run retag
 ```
 
+## Phase 4 — Mise en ligne ✅
+
+- Déployé sur **Vercel** : https://limo-ochre.vercel.app
+- Stockage **Vercel Blob** en production (à activer dans le dashboard Vercel)
+- **Cron** d'ingestion automatique : tous les jours à 8h UTC (plan Hobby)
+- Variables d'environnement configurées : `OPENAI_API_KEY`, `CRON_SECRET`
+
+### Stockage persistant (Vercel Blob)
+
+Le store `limo-blob` est lié au projet en mode **OIDC** (`BLOB_STORE_ID`). Les fichiers JSON sont stockés en accès **private** sous `limo/store/`.
+
+Pour initialiser le Blob depuis les données locales (nécessite OIDC activé pour Development, ou déploiement en prod) :
+
+```bash
+npm run seed-blob
+```
+
 ## Prochaines phases
 
-- **Phase 4** — Mise en ligne (Vercel + cron automatique)
 - **Phase 5** — Application mobile
 
 ## Stack

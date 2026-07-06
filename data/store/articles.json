@@ -1,5 +1,154 @@
 [
   {
+    "slug": "coupe-du-monde-bresil-et-norvege-a-la-recherche-du-premier-but",
+    "title": "Coupe du Monde : Brésil et Norvège à la recherche du premier but",
+    "summary": [
+      "Le match de Coupe du Monde entre le Brésil et la Norvège se déroule actuellement à New York, avec des occasions de part et d'autre mais aucun but marqué à la pause.",
+      "La Seleçao, qui a récemment battu le Japon, affronte l'équipe norvégienne emmenée par Erling Haaland, dans un match crucial pour accéder aux quarts de finale."
+    ],
+    "categorySlug": "sport",
+    "tagSlugs": [
+      "bresil",
+      "norvege",
+      "erling-haaland",
+      "coupe-du-monde",
+      "new-york",
+      "la-selecao",
+      "donald-trump"
+    ],
+    "sources": [
+      {
+        "name": "Le Figaro",
+        "url": "https://www.lefigaro.fr/sports/football/coupe-du-monde/en-direct-coupe-du-monde-neymar-remplacant-face-a-la-norvege-les-remerciements-de-donald-a-la-fifa-20260705"
+      },
+      {
+        "name": "Le Monde",
+        "url": "https://www.lemonde.fr/sport/live/2026/07/05/en-direct-bresil-norvege-suivez-le-huitieme-de-finale-de-la-coupe-du-monde-de-football_6720906_3242.html"
+      }
+    ],
+    "sourceUrls": [
+      "https://www.lefigaro.fr/sports/football/coupe-du-monde/en-direct-coupe-du-monde-neymar-remplacant-face-a-la-norvege-les-remerciements-de-donald-a-la-fifa-20260705",
+      "https://www.lemonde.fr/sport/live/2026/07/05/en-direct-bresil-norvege-suivez-le-huitieme-de-finale-de-la-coupe-du-monde-de-football_6720906_3242.html"
+    ],
+    "publishedAt": "2026-07-05T21:16:03.000Z",
+    "isBreaking": true
+  },
+  {
+    "slug": "incendies-dans-le-sud-de-la-france-10-000-evacuations-et-3-000-pompiers-mobilise",
+    "title": "Incendies dans le sud de la France : 10 000 évacuations et 3 000 pompiers mobilisés",
+    "summary": [
+      "Actuellement, près de 10 000 personnes ont été évacuées dans les Pyrénées-Orientales en raison de plusieurs incendies ravageant la région. Environ 3 000 pompiers sont mobilisés pour lutter contre une vingtaine de feux à travers l'Hexagone.",
+      "En seulement 24 heures, près de 2000 hectares ont été détruits par les flammes. Les autorités locales sont en alerte maximale, surtout avec l'arrivée d'une nouvelle vague de chaleur prévue dans les jours à venir."
+    ],
+    "categorySlug": "faits-divers",
+    "tagSlugs": [
+      "pyrenees-orientales",
+      "tour-de-france",
+      "es-actuellement"
+    ],
+    "sources": [
+      {
+        "name": "France Info",
+        "url": "https://www.franceinfo.fr/faits-divers/incendie/incendies-10-000-personnes-evacuees-dans-les-pyrenees-orientales-quelque-3-000-pompiers-mobilises-pour-lutter-contre-une-vingtaine-de-feux-dans-tout-l-hexagone_8095373.html#xtor=RSS-3-[lestitres]"
+      },
+      {
+        "name": "Le Figaro",
+        "url": "https://www.lefigaro.fr/actualite-france/en-direct-pyrenees-orientales-gard-herault-les-incendies-s-intensifient-dans-le-sud-de-la-france-20260705"
+      }
+    ],
+    "sourceUrls": [
+      "https://www.franceinfo.fr/faits-divers/incendie/incendies-10-000-personnes-evacuees-dans-les-pyrenees-orientales-quelque-3-000-pompiers-mobilises-pour-lutter-contre-une-vingtaine-de-feux-dans-tout-l-hexagone_8095373.html#xtor=RSS-3-[lestitres]",
+      "https://www.lefigaro.fr/actualite-france/en-direct-pyrenees-orientales-gard-herault-les-incendies-s-intensifient-dans-le-sud-de-la-france-20260705"
+    ],
+    "publishedAt": "2026-07-05T21:13:16.000Z",
+    "isBreaking": true
+  },
+  {
+    "slug": "deces-de-stephen-francis-entraineur-emblematique-de-l-athletisme-jamaicain",
+    "title": "Décès de Stephen Francis, entraîneur emblématique de l'athlétisme jamaïcain",
+    "summary": [
+      "Stephen Francis, entraîneur renommé jamaïcain, est décédé à l'âge de 64 ans le 5 juillet.",
+      "Il a formé plusieurs champions olympiques et mondiaux, dont Shelly-Ann Fraser-Pryce, Shericka Jackson, Asafa Powell et Elaine Thompson-Herah.",
+      "Francis était reconnu pour sa capacité à développer des athlètes de haut niveau, contribuant ainsi à la domination de la Jamaïque dans le domaine de l'athlétisme."
+    ],
+    "categorySlug": "sport",
+    "tagSlugs": [
+      "stephen-francis",
+      "shelly-ann-fraser-pryce",
+      "shericka-jackson",
+      "asafa-powell",
+      "elaine-thompson-herah",
+      "icain-stephen",
+      "ann-fraser",
+      "elaine-thompson",
+      "francis-etait"
+    ],
+    "sources": [
+      {
+        "name": "Ouest-France",
+        "url": "https://www.ouest-france.fr/sport/athletisme/athletisme-stephen-francis-le-faiseur-de-champions-jamaicains-est-mort-a-64-ans-a3803fd6-78af-11f1-acd0-0e20d5055cca?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+      }
+    ],
+    "sourceUrls": [
+      "https://www.ouest-france.fr/sport/athletisme/athletisme-stephen-francis-le-faiseur-de-champions-jamaicains-est-mort-a-64-ans-a3803fd6-78af-11f1-acd0-0e20d5055cca?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+    ],
+    "publishedAt": "2026-07-05T21:09:26.000Z",
+    "isBreaking": true
+  },
+  {
+    "slug": "l-incendie-dans-le-gard-fixe-l-a9-rouverte",
+    "title": "L’incendie dans le Gard fixé, l’A9 rouverte",
+    "summary": [
+      "Un incendie a ravagé plus de 500 hectares dans le Gard, mais la situation est désormais maîtrisée selon la préfecture.",
+      "Les pompiers restent cependant mobilisés pour éteindre complètement les foyers encore actifs.",
+      "La réouverture de l'A9 est prévue pour la soirée, permettant ainsi un retour à la normale sur cet axe routier."
+    ],
+    "categorySlug": "climat-meteo",
+    "tagSlugs": [
+      "gard",
+      "a9"
+    ],
+    "sources": [
+      {
+        "name": "Ouest-France",
+        "url": "https://www.ouest-france.fr/region-occitanie/gard/lincendie-dans-le-gard-fixe-la9-reouverte-dans-la-soiree-c09e9fa6-78b2-11f1-acd0-0e20d5055cca?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+      }
+    ],
+    "sourceUrls": [
+      "https://www.ouest-france.fr/region-occitanie/gard/lincendie-dans-le-gard-fixe-la9-reouverte-dans-la-soiree-c09e9fa6-78b2-11f1-acd0-0e20d5055cca?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+    ],
+    "publishedAt": "2026-07-05T21:03:54.000Z",
+    "isBreaking": true
+  },
+  {
+    "slug": "zelensky-les-combats-se-poursuivent-a-kostyantynivka",
+    "title": "Zelensky : les combats se poursuivent à Kostyantynivka",
+    "summary": [
+      "Le président ukrainien, Volodymyr Zelensky, a déclaré que les combats à Kostyantynivka, une ville stratégique de l'est de l'Ukraine, se poursuivent malgré les affirmations du Kremlin selon lesquelles la ville a été prise.",
+      "Cette déclaration intervient après que la Russie a annoncé avoir contrôlé la ville, soulignant les tensions persistantes dans la région du Donetsk.",
+      "Zelensky a insisté sur la résistance ukrainienne face aux forces russes, indiquant que la situation sur le terrain reste complexe."
+    ],
+    "categorySlug": "international",
+    "tagSlugs": [
+      "volodymyr-zelensky",
+      "kostyantynivka",
+      "kremlin",
+      "russie",
+      "ukraine"
+    ],
+    "sources": [
+      {
+        "name": "France 24",
+        "url": "https://www.france24.com/fr/europe/20260705-zelensky-assure-combats-continuent-pour-la-ville-ukrainienne-kostyantynivka-donetsk-russie-poutine-kremlin"
+      }
+    ],
+    "sourceUrls": [
+      "https://www.france24.com/fr/europe/20260705-zelensky-assure-combats-continuent-pour-la-ville-ukrainienne-kostyantynivka-donetsk-russie-poutine-kremlin"
+    ],
+    "publishedAt": "2026-07-05T20:50:57.000Z",
+    "isBreaking": true
+  },
+  {
     "slug": "previsions-meteo-preoccupantes-pour-le-match-france-paraguay",
     "title": "Prévisions météo préoccupantes pour le match France - Paraguay",
     "summary": [

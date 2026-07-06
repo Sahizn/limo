@@ -22,7 +22,7 @@ const entitySchema = z.object({
           "cryptomonnaie",
           "concept",
         ]),
-        aliases: z.array(z.string()).default([]),
+        aliases: z.array(z.string()).describe("Variantes du nom (acronymes, surnoms)"),
       })
     )
     .max(10),

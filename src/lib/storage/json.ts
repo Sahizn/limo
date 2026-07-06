@@ -1,6 +1,6 @@
 import { promises as fs } from "fs";
 import path from "path";
-import { put, head } from "@vercel/blob";
+import { put, get } from "@vercel/blob";
 
 const DATA_DIR = path.join(process.cwd(), "data", "store");
 const BLOB_PREFIX = "limo/store/";
@@ -17,10 +17,11 @@ async function ensureDataDir() {
 
 async function readFromBlob<T>(filename: string): Promise<T | null> {
   try {
-    const blob = await head(`${BLOB_PREFIX}${filename}`);
-    const response = await fetch(blob.url);
-    if (!response.ok) return null;
-    return (await response.json()) as T;
+    const pathname = `${BLOB_PREFIX}${filename}`;
+    const result = await get(pathname, { access: "private" });
+    if (!result || result.statusCode !== 200 || !result.stream) return null;
+    const text = await new Response(result.stream).text();
+    return JSON.parse(text) as T;
   } catch {
     return null;
   }
@@ -28,7 +29,7 @@ async function readFromBlob<T>(filename: string): Promise<T | null> {
 
 async function writeToBlob<T>(filename: string, data: T): Promise<void> {
   await put(`${BLOB_PREFIX}${filename}`, JSON.stringify(data), {
-    access: "public",
+    access: "private",
     addRandomSuffix: false,
     allowOverwrite: true,
     contentType: "application/json",
