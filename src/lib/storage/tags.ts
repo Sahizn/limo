@@ -1,6 +1,7 @@
 import type { Tag } from "@/lib/types/tag";
 import { readJsonFile, writeJsonFile } from "@/lib/storage/json";
 import { seedTags } from "@/lib/data/seed-tags";
+import { isPlausibleEntity } from "@/lib/engine/entity-validation";
 import {
   getTrendingTagsWithStats,
   syncTagStats,
@@ -10,10 +11,12 @@ const FILE = "tags.json";
 
 export async function getAllTags(): Promise<Tag[]> {
   const tags = await readJsonFile<Tag[]>(FILE, seedTags);
-  return tags.map((tag) => ({
-    ...tag,
-    lastUsedAt: tag.lastUsedAt ?? tag.createdAt,
-  }));
+  return tags
+    .filter((tag) => isPlausibleEntity(tag.name, tag.type))
+    .map((tag) => ({
+      ...tag,
+      lastUsedAt: tag.lastUsedAt ?? tag.createdAt,
+    }));
 }
 
 export async function getTagBySlug(slug: string): Promise<Tag | undefined> {

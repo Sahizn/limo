@@ -77,14 +77,19 @@ export async function synthesizeArticle(
     return synthesizeFallback(input);
   }
 
-  const { object } = await generateObject({
-    model: openai("gpt-4o-mini"),
-    schema: synthesisSchema,
-    prompt: buildPrompt(input.items, input.defaultCategorySlug),
-    temperature: 0.2,
-  });
+  try {
+    const { object } = await generateObject({
+      model: openai("gpt-4o-mini"),
+      schema: synthesisSchema,
+      prompt: buildPrompt(input.items, input.defaultCategorySlug),
+      temperature: 0.2,
+    });
 
-  return object;
+    return object;
+  } catch (error) {
+    console.error("[Synthesis] Erreur IA, fallback:", error);
+    return synthesizeFallback(input);
+  }
 }
 
 function synthesizeFallback(input: SynthesisInput): SynthesisOutput {

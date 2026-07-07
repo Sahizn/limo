@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ExternalLink } from "lucide-react";
+import { SaveArticleButton } from "@/components/saved-articles/save-article-button";
 import { getArticleBySlug, getArticleSlugs } from "@/lib/storage/articles";
 import { getCategoryBySlug } from "@/lib/data/categories";
 import { getTagBySlug } from "@/lib/storage/tags";
@@ -25,6 +26,12 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   return {
     title: article.title,
     description: article.summary[0],
+    openGraph: {
+      title: article.title,
+      description: article.summary[0],
+      type: "article",
+      publishedTime: article.publishedAt,
+    },
   };
 }
 
@@ -58,16 +65,21 @@ export default async function ArticlePage({ params }: PageProps) {
       </nav>
 
       <header className="mb-8">
-        {article.isBreaking && (
-          <span className="mb-3 inline-flex items-center gap-1.5 rounded-full bg-breaking/15 px-2.5 py-1 text-xs font-medium text-breaking">
-            <span className="h-1.5 w-1.5 rounded-full bg-breaking" />
-            En ce moment
-          </span>
-        )}
-        <h1 className="text-2xl font-semibold leading-tight tracking-tight sm:text-3xl">
-          {article.title}
-        </h1>
-        <div className="mt-4 flex flex-wrap items-center gap-2 text-sm text-muted">
+        <div className="mb-4 flex flex-col gap-4 sm:flex-row sm:items-start sm:justify-between">
+          <div className="flex-1">
+            {article.isBreaking && (
+              <span className="mb-3 inline-flex items-center gap-1.5 rounded-full bg-breaking/15 px-2.5 py-1 text-xs font-medium text-breaking">
+                <span className="h-1.5 w-1.5 rounded-full bg-breaking" />
+                En ce moment
+              </span>
+            )}
+            <h1 className="text-2xl font-semibold leading-tight tracking-tight sm:text-3xl">
+              {article.title}
+            </h1>
+          </div>
+          <SaveArticleButton article={article} />
+        </div>
+        <div className="flex flex-wrap items-center gap-2 text-sm text-muted">
           {category && (
             <Link
               href={`/categorie/${category.slug}`}

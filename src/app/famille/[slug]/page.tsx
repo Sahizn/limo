@@ -8,6 +8,7 @@ import {
   getFamilyBySlug,
 } from "@/lib/data/categories";
 import { getAllArticles } from "@/lib/storage/articles";
+import { buildTagMap } from "@/lib/storage/tag-map";
 
 export const revalidate = 60;
 
@@ -36,7 +37,10 @@ export default async function FamilyPage({ params }: PageProps) {
 
   const familyCategories = getCategoriesByFamily(family.slug);
   const categorySlugs = new Set(familyCategories.map((c) => c.slug));
-  const allArticles = await getAllArticles();
+  const [allArticles, tagLookup] = await Promise.all([
+    getAllArticles(),
+    buildTagMap(),
+  ]);
   const articles = allArticles.filter((a) => categorySlugs.has(a.categorySlug));
 
   return (
@@ -78,7 +82,12 @@ export default async function FamilyPage({ params }: PageProps) {
           </h2>
           <div className="flex flex-col gap-4">
             {articles.map((article) => (
-              <ArticleCard key={article.slug} article={article} showSummary />
+              <ArticleCard
+                key={article.slug}
+                article={article}
+                tagLookup={tagLookup}
+                showSummary
+              />
             ))}
           </div>
         </section>

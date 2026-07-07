@@ -5,6 +5,7 @@ import { frenchPlaces } from "@/lib/data/known-entities";
 import type { ExtractedEntity } from "@/lib/types/tag";
 import { hasOpenAIKey } from "@/lib/engine/synthesize";
 import { dedupeEntities, normalizeText } from "@/lib/engine/normalize";
+import { isPlausibleEntity } from "@/lib/engine/entity-validation";
 
 const entitySchema = z.object({
   entities: z
@@ -36,7 +37,9 @@ export async function extractEntities(input: {
   const fromAi = hasOpenAIKey() ? await extractWithAI(input) : [];
   const fromFallback = extractFallback(input);
 
-  return dedupeEntities([...fromAi, ...fromFallback]).slice(0, 10);
+  return dedupeEntities([...fromAi, ...fromFallback])
+    .filter((entity) => isPlausibleEntity(entity.name, entity.type))
+    .slice(0, 10);
 }
 
 async function extractWithAI(input: {
@@ -117,13 +120,15 @@ function extractFallback(input: {
     }
   }
 
-  const personPattern = /\b([A-ZÀ-Ÿ][a-zà-ÿ]+ [A-ZÀ-Ÿ][a-zà-ÿ]+)\b/g;
+  const personPattern =
+    /\b([A-ZÀ-Ÿ][a-zà-ÿ]{1,}(?:-[A-ZÀ-Ÿ][a-zà-ÿ]+)?)\s+([A-ZÀ-Ÿ][a-zà-ÿ]{1,})\b/g;
   let match;
   while ((match = personPattern.exec(text)) !== null) {
-    const name = match[1];
+    const name = `${match[1]} ${match[2]}`;
     const normalized = normalizeText(name);
     if (
-      !["le monde", "la france", "les echos", "france info"].includes(normalized)
+      !["le monde", "la france", "les echos", "france info"].includes(normalized) &&
+      isPlausibleEntity(name, "personne")
     ) {
       entities.push({ name, type: "personne" });
     }

@@ -1,5 +1,430 @@
 [
   {
+    "slug": "trump-relance-la-peur-du-communisme-avant-les-midterms",
+    "title": "Trump relance la peur du communisme avant les midterms",
+    "summary": [
+      "À l'approche des élections de mi-mandat en novembre aux États-Unis, Donald Trump réactive le thème du communisme dans sa campagne électorale.",
+      "Cette stratégie vise à attaquer le Parti démocrate, en le présentant comme une menace pour les valeurs américaines.",
+      "Trump avait déjà utilisé cette approche lors de la campagne présidentielle de 2024, soulignant la peur du communisme comme un levier politique."
+    ],
+    "categorySlug": "politique",
+    "tagSlugs": [
+      "donald-trump",
+      "parti-democrate",
+      "etats-unis",
+      "elections-de-mi-mandat"
+    ],
+    "sources": [
+      {
+        "name": "20 Minutes",
+        "url": "https://www.20minutes.fr/monde/etats-unis/4233244-20260707-etats-unis-avant-midterms-novembre-trump-mise-peur-grand-mechant-communisme?at_medium=display&at_campaign=149"
+      }
+    ],
+    "sourceUrls": [
+      "https://www.20minutes.fr/monde/etats-unis/4233244-20260707-etats-unis-avant-midterms-novembre-trump-mise-peur-grand-mechant-communisme?at_medium=display&at_campaign=149"
+    ],
+    "publishedAt": "2026-07-06T22:48:32.000Z",
+    "isBreaking": true
+  },
+  {
+    "slug": "problemes-de-reconnaissance-faciale-chez-les-forces-de-l-ordre",
+    "title": "Problèmes de reconnaissance faciale chez les forces de l'ordre",
+    "summary": [
+      "Une enquête menée par 'L'Œil du 20 heures' et le média Disclose révèle des erreurs dans l'utilisation de la reconnaissance faciale par les forces de l'ordre en France.",
+      "Des témoignages indiquent que des gendarmes ont été incités à utiliser cet outil lors de contrôles d'identité, parfois en dehors du cadre légal.",
+      "Ces pratiques soulèvent des questions sur la fiabilité de la technologie et son encadrement juridique."
+    ],
+    "categorySlug": "justice",
+    "tagSlugs": [
+      "l-il-du-20-heures",
+      "disclose",
+      "france",
+      "edia-disclose"
+    ],
+    "sources": [
+      {
+        "name": "France Info",
+        "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/enquete-francetv-mais-non-ce-n-est-pas-moi-quand-l-outil-de-reconnaissance-faciale-des-forces-de-l-ordre-identifie-la-mauvaise-personne_8092685.html#xtor=RSS-3-[lestitres]"
+      }
+    ],
+    "sourceUrls": [
+      "https://www.franceinfo.fr/replay-jt/france-2/20-heures/enquete-francetv-mais-non-ce-n-est-pas-moi-quand-l-outil-de-reconnaissance-faciale-des-forces-de-l-ordre-identifie-la-mauvaise-personne_8092685.html#xtor=RSS-3-[lestitres]"
+    ],
+    "publishedAt": "2026-07-06T22:46:27.000Z",
+    "isBreaking": false
+  },
+  {
+    "slug": "etats-unis-belgique-match-sous-tension-en-8es-de-finale-du-mondial-2026",
+    "title": "États-Unis - Belgique : Match sous tension en 8es de finale du Mondial 2026",
+    "summary": [
+      "Les États-Unis affrontent la Belgique en 8es de finale du Mondial 2026 à Seattle. Ce match est marqué par une polémique liée à la levée de la suspension de l'Américain Balogun par la FIFA.",
+      "L'intervention de Donald Trump dans cette affaire a suscité des réactions, ajoutant une couche de tension à la rencontre. Les deux équipes se préparent à entrer sur le terrain pour déterminer qui avancera dans le tournoi."
+    ],
+    "categorySlug": "international",
+    "tagSlugs": [
+      "balogun",
+      "fifa",
+      "donald-trump",
+      "etats-unis",
+      "belgique",
+      "mondial-2026",
+      "seattle",
+      "8es-de-finale",
+      "americain-balogun",
+      "emique-balogun"
+    ],
+    "sources": [
+      {
+        "name": "France 24",
+        "url": "https://www.france24.com/fr/sports/20260706-%C3%A9tats-unis-belgique-direct-live-scandale-balogun-8e-finale-tension"
+      }
+    ],
+    "sourceUrls": [
+      "https://www.france24.com/fr/sports/20260706-%C3%A9tats-unis-belgique-direct-live-scandale-balogun-8e-finale-tension"
+    ],
+    "publishedAt": "2026-07-06T22:43:28.000Z",
+    "isBreaking": true
+  },
+  {
+    "slug": "la-knesset-adopte-une-commission-d-enquete-sur-l-attaque-du-7-octobre",
+    "title": "La Knesset adopte une commission d'enquête sur l'attaque du 7 octobre",
+    "summary": [
+      "Le Parlement israélien a voté en première lecture la création d'une commission d'enquête bipartisane sur les défaillances sécuritaires liées à l'attaque du 7 octobre 2023.",
+      "Cette attaque a causé la mort de plus de 1 200 personnes et a suscité des critiques sur la gestion de la sécurité en Israël.",
+      "La proposition, soutenue par le Premier ministre Benjamin Netanyahu, a été boycottée par l'opposition, qui s'oppose à cette initiative."
+    ],
+    "categorySlug": "international",
+    "tagSlugs": [
+      "knesset",
+      "benjamin-netanyahu",
+      "hamas",
+      "israel"
+    ],
+    "sources": [
+      {
+        "name": "France 24",
+        "url": "https://www.france24.com/fr/moyen-orient/20260706-knesset-adopte-premiere-lecture-creation-commission-enquete-7-octobre-benjamin-netanyahu-parlement-defaillances-boycott-opposition-otages-hamas"
+      }
+    ],
+    "sourceUrls": [
+      "https://www.france24.com/fr/moyen-orient/20260706-knesset-adopte-premiere-lecture-creation-commission-enquete-7-octobre-benjamin-netanyahu-parlement-defaillances-boycott-opposition-otages-hamas"
+    ],
+    "publishedAt": "2026-07-06T22:33:48.000Z",
+    "isBreaking": true
+  },
+  {
+    "slug": "cristiano-ronaldo-elimine-en-huitiemes-de-finale-de-la-coupe-du-monde",
+    "title": "Cristiano Ronaldo éliminé en huitièmes de finale de la Coupe du Monde",
+    "summary": [
+      "L'Espagne a éliminé le Portugal en huitièmes de finale de la Coupe du Monde, avec un but de Mikel Merino inscrit dans le temps additionnel (90e+1).",
+      "Ce match, disputé à Dallas, marque probablement la fin de la carrière en Coupe du Monde de Cristiano Ronaldo, qui a été vu en larmes après la rencontre.",
+      "La qualification de l'Espagne pour les quarts de finale a été saluée, notamment grâce à la performance de jeunes joueurs comme Lamine Yamal."
+    ],
+    "categorySlug": "sport",
+    "tagSlugs": [
+      "cristiano-ronaldo",
+      "portugal",
+      "espagne",
+      "mikel-merino",
+      "lamine-yamal",
+      "dallas",
+      "coupe-du-monde"
+    ],
+    "sources": [
+      {
+        "name": "Libération",
+        "url": "https://www.liberation.fr/sports/football/coupe-du-monde-cristiano-ronaldo-tire-sa-reverence-avec-lelimination-du-portugal-par-la-roja-20260707_DWUYKU6UBVALPDZL6O4LXSBJVU/"
+      },
+      {
+        "name": "Ouest-France",
+        "url": "https://www.ouest-france.fr/sport/football/cristiano-ronaldo/video-coupe-du-monde-cristiano-ronaldo-en-larmes-apres-lelimination-du-portugal-contre-lespagne-46bd28f0-7980-11f1-acd0-0e20d5055cca?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+      },
+      {
+        "name": "France Info",
+        "url": "https://www.franceinfo.fr/coupe-du-monde/le-portugal-elimine-au-forceps-par-l-espagne-en-huitiemes-de-finale-de-la-coupe-du-monde-les-adieux-probables-de-cristiano-ronaldo-au-mondial_8096861.html#xtor=RSS-3-[lestitres]"
+      }
+    ],
+    "sourceUrls": [
+      "https://www.liberation.fr/sports/football/coupe-du-monde-cristiano-ronaldo-tire-sa-reverence-avec-lelimination-du-portugal-par-la-roja-20260707_DWUYKU6UBVALPDZL6O4LXSBJVU/",
+      "https://www.ouest-france.fr/sport/football/cristiano-ronaldo/video-coupe-du-monde-cristiano-ronaldo-en-larmes-apres-lelimination-du-portugal-contre-lespagne-46bd28f0-7980-11f1-acd0-0e20d5055cca?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "https://www.franceinfo.fr/coupe-du-monde/le-portugal-elimine-au-forceps-par-l-espagne-en-huitiemes-de-finale-de-la-coupe-du-monde-les-adieux-probables-de-cristiano-ronaldo-au-mondial_8096861.html#xtor=RSS-3-[lestitres]"
+    ],
+    "publishedAt": "2026-07-06T22:07:34.000Z",
+    "isBreaking": true
+  },
+  {
+    "slug": "portugal-et-espagne-en-quart-de-finale-de-la-coupe-du-monde-2026",
+    "title": "Portugal et Espagne en quart de finale de la Coupe du Monde 2026",
+    "summary": [
+      "Le match entre le Portugal, emmené par Cristiano Ronaldo, et l'Espagne, avec Lamine Yamal, se déroule à Dallas en 8e de finale de la Coupe du Monde 2026.",
+      "Les deux équipes sont à égalité, avec une intensité de jeu élevée dans les dernières minutes du match.",
+      "Ce choc entre la Seleção et la Roja est considéré comme un affrontement majeur du tournoi."
+    ],
+    "categorySlug": "sport",
+    "tagSlugs": [
+      "cristiano-ronaldo",
+      "lamine-yamal",
+      "portugal",
+      "espagne",
+      "coupe-du-monde-2026",
+      "dallas",
+      "8e-de-finale"
+    ],
+    "sources": [
+      {
+        "name": "Le Figaro",
+        "url": "https://www.lefigaro.fr/sports/football/live/coupe-du-monde/2025/2608351/portugal-espagne"
+      }
+    ],
+    "sourceUrls": [
+      "https://www.lefigaro.fr/sports/football/live/coupe-du-monde/2025/2608351/portugal-espagne"
+    ],
+    "publishedAt": "2026-07-06T20:49:03.000Z",
+    "isBreaking": true
+  },
+  {
+    "slug": "coupe-du-monde-2026-portugal-et-espagne-en-quarts-de-finale",
+    "title": "Coupe du Monde 2026 : Portugal et Espagne en quarts de finale",
+    "summary": [
+      "Le match entre le Portugal et l'Espagne se déroule actuellement au Dallas Stadium dans le cadre des 8es de finale de la Coupe du Monde 2026. Les deux équipes sont à égalité 0-0, et la tension monte alors qu'elles cherchent à se qualifier pour les quarts de finale.",
+      "Ce match est particulièrement suivi en raison de la possible dernière apparition de Cristiano Ronaldo en Coupe du Monde. Parallèlement, un autre match marquant opposera les États-Unis à la Belgique, avec des enjeux politiques liés à la présence de Balogun et Trump."
+    ],
+    "categorySlug": "sport",
+    "tagSlugs": [
+      "cristiano-ronaldo",
+      "dallas-stadium",
+      "coupe-du-monde-2026",
+      "etats-unis",
+      "belgique",
+      "balogun",
+      "trump",
+      "portugal",
+      "espagne"
+    ],
+    "sources": [
+      {
+        "name": "France Info",
+        "url": "https://www.franceinfo.fr/coupe-du-monde/directs/direct-coupe-du-monde-2026-l-angleterre-elimine-le-mexique-apres-un-match-de-legende-le-bresil-prend-la-porte-apres-un-exploit-de-la-norvege_8095052.html#xtor=RSS-3-[lestitres]"
+      },
+      {
+        "name": "20 Minutes",
+        "url": "https://www.20minutes.fr/sport/football/4233142-20260706-direct-portugal-espagne-roja-sauvee-barre-selecao-arrets-diogo-costa-suivez-match?at_medium=display&at_campaign=149"
+      }
+    ],
+    "sourceUrls": [
+      "https://www.franceinfo.fr/coupe-du-monde/directs/direct-coupe-du-monde-2026-l-angleterre-elimine-le-mexique-apres-un-match-de-legende-le-bresil-prend-la-porte-apres-un-exploit-de-la-norvege_8095052.html#xtor=RSS-3-[lestitres]",
+      "https://www.20minutes.fr/sport/football/4233142-20260706-direct-portugal-espagne-roja-sauvee-barre-selecao-arrets-diogo-costa-suivez-match?at_medium=display&at_campaign=149"
+    ],
+    "publishedAt": "2026-07-06T20:43:10.000Z",
+    "isBreaking": true
+  },
+  {
+    "slug": "proces-des-animateurs-de-jean-pormanove-premieres-declarations",
+    "title": "Procès des animateurs de Jean Pormanove : premières déclarations",
+    "summary": [
+      "Le procès des animateurs de la chaîne internet de Jean Pormanove, Naruto et Safine, a débuté à Nice. Ils sont accusés de violences en réunion et d'abus de faiblesse, suite à la mort en direct du streamer l'été dernier.",
+      "L'autopsie a conclu à l'absence d'intervention d'un tiers dans le décès de Pormanove. L'un des accusés a qualifié le procès de « pièce de théâtre », suscitant des réactions dans l'audience."
+    ],
+    "categorySlug": "justice",
+    "tagSlugs": [
+      "jean-pormanove",
+      "naruto",
+      "safine",
+      "nice",
+      "es-evoque"
+    ],
+    "sources": [
+      {
+        "name": "Ouest-France",
+        "url": "https://www.ouest-france.fr/societe/justice/mort-du-streamer-jean-pormanove-lun-des-accuses-evoque-une-piece-de-theatre-au-premier-jour-du-proces-55eef554-7978-11f1-acd0-0e20d5055cca?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+      }
+    ],
+    "sourceUrls": [
+      "https://www.ouest-france.fr/societe/justice/mort-du-streamer-jean-pormanove-lun-des-accuses-evoque-une-piece-de-theatre-au-premier-jour-du-proces-55eef554-7978-11f1-acd0-0e20d5055cca?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+    ],
+    "publishedAt": "2026-07-06T20:40:58.000Z",
+    "isBreaking": true
+  },
+  {
+    "slug": "inondations-en-equateur-9-morts-et-9-disparus",
+    "title": "Inondations en Équateur : 9 morts et 9 disparus",
+    "summary": [
+      "En Équateur, des inondations causées par le débordement d'une rivière ont entraîné la mort de neuf personnes et neuf autres sont portées disparues.",
+      "Les inondations ont également emporté plusieurs maisons dans le sud du pays, provoquant des dégâts matériels importants.",
+      "Les autorités locales sont mobilisées pour porter secours aux victimes et évaluer l'ampleur des dommages."
+    ],
+    "categorySlug": "faits-divers",
+    "tagSlugs": [
+      "equateur"
+    ],
+    "sources": [
+      {
+        "name": "Ouest-France",
+        "url": "https://www.ouest-france.fr/meteo/inondation/inondations-en-equateur-9-morts-et-9-disparus-6ded2f22-7978-11f1-acd0-0e20d5055cca?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+      }
+    ],
+    "sourceUrls": [
+      "https://www.ouest-france.fr/meteo/inondation/inondations-en-equateur-9-morts-et-9-disparus-6ded2f22-7978-11f1-acd0-0e20d5055cca?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+    ],
+    "publishedAt": "2026-07-06T20:39:34.000Z",
+    "isBreaking": true
+  },
+  {
+    "slug": "visite-d-emmanuel-macron-en-syrie",
+    "title": "Visite d'Emmanuel Macron en Syrie",
+    "summary": [
+      "Emmanuel Macron effectue une visite inédite en Syrie, marquant la première pour un chef d'État de l'Union européenne depuis la chute de Bachar El Assad.",
+      "Accompagné de chefs d'entreprise, Macron a pour objectif d'assurer le soutien de la France à la reconstruction économique du pays et de promouvoir une transition politique.",
+      "Cette démarche s'inscrit dans un contexte de rétablissement des relations diplomatiques et économiques avec la Syrie."
+    ],
+    "categorySlug": "international",
+    "tagSlugs": [
+      "macron",
+      "syrie",
+      "bachar-el-assad",
+      "ahmed-al-charaa",
+      "union-europeenne",
+      "france",
+      "syrie-emmanuel",
+      "bachar-el"
+    ],
+    "sources": [
+      {
+        "name": "France 24",
+        "url": "https://www.france24.com/fr/%C3%A9missions/on-va-plus-loin/20260706-emmanuel-macron-en-syrie-pourquoi-cette-visite"
+      }
+    ],
+    "sourceUrls": [
+      "https://www.france24.com/fr/%C3%A9missions/on-va-plus-loin/20260706-emmanuel-macron-en-syrie-pourquoi-cette-visite"
+    ],
+    "publishedAt": "2026-07-06T20:37:47.000Z",
+    "isBreaking": true
+  },
+  {
+    "slug": "no-kids-la-commission-nationale-des-droits-de-l-homme-demande-l-interdiction-des",
+    "title": "«No Kids» : la Commission nationale des droits de l’Homme demande l’interdiction des espaces sans enfants",
+    "summary": [
+      "L’institution voit dans le développement de ces espaces un symptôme «d’adultisme», autrement dit, «une intolérance croissante envers les enfants».",
+      "Celle-ci peut même s’apparenter à une discrimination, punie par la loi."
+    ],
+    "categorySlug": "politique",
+    "tagSlugs": [
+      "no-kids"
+    ],
+    "sources": [
+      {
+        "name": "Le Figaro",
+        "url": "https://www.lefigaro.fr/societes/no-kids-la-commission-des-droits-de-l-homme-demande-l-interdiction-des-espaces-sans-enfants-20260706"
+      }
+    ],
+    "sourceUrls": [
+      "https://www.lefigaro.fr/societes/no-kids-la-commission-des-droits-de-l-homme-demande-l-interdiction-des-espaces-sans-enfants-20260706"
+    ],
+    "publishedAt": "2026-07-06T08:50:13.000Z",
+    "isBreaking": false
+  },
+  {
+    "slug": "en-direct-incendies-plus-de-11-000-hectares-brules-contre-5-700-l-an-dernier-a-l",
+    "title": "EN DIRECT - Incendies : plus de 11 000 hectares brûlés contre 5 700 l’an dernier à la même époque, selon Laurent Nuñez",
+    "summary": [
+      "Le ministre de l’Intérieur a évoqué sur France 2 une «saison compliquée» et précoce : hier, une vingtaine de feux étaient traités en même temps.",
+      "Celui des Pyrénées-Orientales n’est toujours pas fixé et a parcouru plus de 4 600 hectares."
+    ],
+    "categorySlug": "politique",
+    "tagSlugs": [
+      "eme-epoque",
+      "laurent-nunez"
+    ],
+    "sources": [
+      {
+        "name": "Libération",
+        "url": "https://www.liberation.fr/environnement/en-direct-incendies-le-feu-toujours-pas-fixe-dans-les-pyrenees-orientales-les-pompiers-reprennent-une-lutte-acharnee-20260706_PIWDOMG4A5F55IGFFOSMXTBXYM/"
+      }
+    ],
+    "sourceUrls": [
+      "https://www.liberation.fr/environnement/en-direct-incendies-le-feu-toujours-pas-fixe-dans-les-pyrenees-orientales-les-pompiers-reprennent-une-lutte-acharnee-20260706_PIWDOMG4A5F55IGFFOSMXTBXYM/"
+    ],
+    "publishedAt": "2026-07-06T08:42:49.000Z",
+    "isBreaking": false
+  },
+  {
+    "slug": "en-direct-cedric-jubillar-passe-aux-aveux-et-se-dit-pret-a-donner-des-indication",
+    "title": "EN DIRECT - Cédric Jubillar passe aux aveux et se dit prêt à donner des indications sur l’endroit où il a dissimulé le corps de son épouse Delphine",
+    "summary": [
+      "Le peintre-plaquiste, qui a reconnu le crime auprès de son avocat, s’est dit prêt à donner des indications sur l’endroit où il a dissimulé le corps."
+    ],
+    "categorySlug": "politique",
+    "tagSlugs": [
+      "cedric-jubillar"
+    ],
+    "sources": [
+      {
+        "name": "Le Figaro",
+        "url": "https://www.lefigaro.fr/faits-divers/en-direct-cedric-jubillar-passe-aux-aveux-et-reconnait-le-meurtre-de-son-epouse-delphine-cinq-ans-apres-les-faits-une-conference-de-presse-a-venir-20260706"
+      }
+    ],
+    "sourceUrls": [
+      "https://www.lefigaro.fr/faits-divers/en-direct-cedric-jubillar-passe-aux-aveux-et-reconnait-le-meurtre-de-son-epouse-delphine-cinq-ans-apres-les-faits-une-conference-de-presse-a-venir-20260706"
+    ],
+    "publishedAt": "2026-07-06T08:42:04.000Z",
+    "isBreaking": false
+  },
+  {
+    "slug": "coupe-du-monde-triomphe-des-fantomes-reve-mexicain-termine-la-revue-de-presse-ap",
+    "title": "Coupe du monde. « Triomphe des fantômes », « rêve mexicain terminé » : la revue de presse après Mexique - Angleterre",
+    "summary": [
+      "L’Angleterre, héroïque à dix contre onze, a résisté aux vagues du Mexique (3-2) de l’Azteca pour arracher sa qualification pour les quarts de finale du Mondial 2026, ce lundi 6 juillet.",
+      "Un succès qui a enflammé la presse britannique."
+    ],
+    "categorySlug": "politique",
+    "tagSlugs": [
+      "es-mexique",
+      "angleterre-coupe",
+      "jude-bellingham"
+    ],
+    "sources": [
+      {
+        "name": "Ouest-France",
+        "url": "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-triomphe-des-fantomes-reve-mexicain-termine-la-revue-de-presse-apres-mexique-angleterre-07104736-7909-11f1-acd0-0e20d5055cca?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+      },
+      {
+        "name": "Le Monde",
+        "url": "https://www.lemonde.fr/sport/article/2026/07/06/coupe-du-monde-2026-l-angleterre-de-jude-bellingham-met-fin-au-reve-du-mexique_6721142_3242.html"
+      }
+    ],
+    "sourceUrls": [
+      "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-triomphe-des-fantomes-reve-mexicain-termine-la-revue-de-presse-apres-mexique-angleterre-07104736-7909-11f1-acd0-0e20d5055cca?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "https://www.lemonde.fr/sport/article/2026/07/06/coupe-du-monde-2026-l-angleterre-de-jude-bellingham-met-fin-au-reve-du-mexique_6721142_3242.html"
+    ],
+    "publishedAt": "2026-07-06T08:41:03.000Z",
+    "isBreaking": false
+  },
+  {
+    "slug": "en-direct-incendies-dans-les-pyrenees-orientales-le-feu-a-parcouru-4-600-hectare",
+    "title": "EN DIRECT, incendies : dans les Pyrénées-Orientales, le feu a parcouru 4 600 hectares ; sept départements en « risque très élevé » lundi, selon Météo-France",
+    "summary": [
+      "L’étape du Tour de France d’aujourd’hui se tiendra sans public côté français.",
+      "Le ministre de l’intérieur, Laurent Nuñez, est attendu dans les Pyrénées-Orientales cet après-midi.",
+      "Des incendies touchent également le Gard, la Drôme, l’Aude et l’Ariège."
+    ],
+    "categorySlug": "politique",
+    "tagSlugs": [
+      "es-elev",
+      "laurent-nunez"
+    ],
+    "sources": [
+      {
+        "name": "Le Monde",
+        "url": "https://www.lemonde.fr/planete/live/2026/07/06/en-direct-incendies-dans-les-pyrenees-orientales-le-feu-a-parcouru-4-600-hectares-sept-departements-en-risque-tres-eleve-lundi-selon-meteo-france_6720911_3244.html"
+      }
+    ],
+    "sourceUrls": [
+      "https://www.lemonde.fr/planete/live/2026/07/06/en-direct-incendies-dans-les-pyrenees-orientales-le-feu-a-parcouru-4-600-hectares-sept-departements-en-risque-tres-eleve-lundi-selon-meteo-france_6720911_3244.html"
+    ],
+    "publishedAt": "2026-07-06T08:36:00.000Z",
+    "isBreaking": false
+  },
+  {
     "slug": "coupe-du-monde-bresil-et-norvege-a-la-recherche-du-premier-but",
     "title": "Coupe du Monde : Brésil et Norvège à la recherche du premier but",
     "summary": [
@@ -13,7 +438,6 @@
       "erling-haaland",
       "coupe-du-monde",
       "new-york",
-      "la-selecao",
       "donald-trump"
     ],
     "sources": [
@@ -43,8 +467,7 @@
     "categorySlug": "faits-divers",
     "tagSlugs": [
       "pyrenees-orientales",
-      "tour-de-france",
-      "es-actuellement"
+      "tour-de-france"
     ],
     "sources": [
       {
@@ -185,9 +608,7 @@
     ],
     "categorySlug": "transport",
     "tagSlugs": [
-      "bretagne",
-      "la-rochelle",
-      "festival-du-film"
+      "bretagne"
     ],
     "sources": [
       {
@@ -213,8 +634,7 @@
     "categorySlug": "climat-meteo",
     "tagSlugs": [
       "drome",
-      "canadair",
-      "eriennes-un"
+      "canadair"
     ],
     "sources": [
       {
@@ -272,8 +692,7 @@
       "australie",
       "ghana",
       "colombie",
-      "vert-lors",
-      "les-capverdiens"
+      "vert-lors"
     ],
     "sources": [
       {
@@ -323,8 +742,7 @@
     "categorySlug": "justice",
     "tagSlugs": [
       "chloe-aldrovandi",
-      "marseille",
-      "corse-le"
+      "marseille"
     ],
     "sources": [
       {
@@ -350,8 +768,7 @@
     "tagSlugs": [
       "ali-khamenei",
       "teheran",
-      "grande-mosalla",
-      "teheran-les"
+      "grande-mosalla"
     ],
     "sources": [
       {
@@ -431,9 +848,7 @@
     ],
     "categorySlug": "climat-meteo",
     "tagSlugs": [
-      "france",
-      "france-des",
-      "eratures-elevees"
+      "france"
     ],
     "sources": [
       {
@@ -461,9 +876,7 @@
       "tadej-pogacar",
       "jonas-vingegaard",
       "tour-de-france",
-      "barcelone",
-      "le-tour",
-      "ere-etape"
+      "barcelone"
     ],
     "sources": [
       {
@@ -488,8 +901,7 @@
     "categorySlug": "faits-divers",
     "tagSlugs": [
       "penestin",
-      "morbihan",
-      "les-iles"
+      "morbihan"
     ],
     "sources": [
       {
@@ -512,10 +924,7 @@
       "Des recherches sont en cours pour explorer de nouvelles pistes thérapeutiques prometteuses, offrant un espoir pour les patients concernés."
     ],
     "categorySlug": "sante",
-    "tagSlugs": [
-      "maladie-des-petits-vaisseaux-cerebraux",
-      "accidents-vasculaires-cerebraux-avc"
-    ],
+    "tagSlugs": [],
     "sources": [
       {
         "name": "Ouest-France",
@@ -562,8 +971,7 @@
     ],
     "categorySlug": "politique",
     "tagSlugs": [
-      "ali-khamenei",
-      "orient-la"
+      "ali-khamenei"
     ],
     "sources": [
       {
@@ -585,10 +993,7 @@
       "Les jeunes, notamment, contestent les choix économiques et réclament la fin de programmes sociaux très coûteux voulus par le président Subianto."
     ],
     "categorySlug": "politique",
-    "tagSlugs": [
-      "emes-economiques",
-      "esident-subianto"
-    ],
+    "tagSlugs": [],
     "sources": [
       {
         "name": "Libération",
@@ -609,9 +1014,7 @@
       "Et ses habitants nourrissent un fort ressentiment vis-à-vis de la réponse des autorités."
     ],
     "categorySlug": "politique",
-    "tagSlugs": [
-      "eismes-la"
-    ],
+    "tagSlugs": [],
     "sources": [
       {
         "name": "Libération",
@@ -749,8 +1152,7 @@
     "tagSlugs": [
       "canicule",
       "ile-de-france",
-      "paris",
-      "le-parisien"
+      "paris"
     ],
     "sources": [
       {
@@ -803,8 +1205,7 @@
     ],
     "categorySlug": "economie",
     "tagSlugs": [
-      "inflation",
-      "la-banque"
+      "inflation"
     ],
     "sources": [
       {
@@ -829,7 +1230,6 @@
     "categorySlug": "energie",
     "tagSlugs": [
       "bretagne",
-      "les-ecologistes",
       "france"
     ],
     "sources": [

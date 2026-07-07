@@ -21,7 +21,15 @@ export function Footer() {
             <Link href="/recherche" className="hover:text-foreground">
               Recherche
             </Link>
-            <span className="text-muted">Mentions légales</span>
+            <Link href="/enregistres" className="hover:text-foreground">
+              Enregistrés
+            </Link>
+            <Link href="/favoris" className="hover:text-foreground">
+              Favoris
+            </Link>
+            <Link href="/mentions-legales" className="hover:text-foreground">
+              Mentions légales
+            </Link>
           </nav>
         </div>
         <p className="mt-8 text-xs text-muted">

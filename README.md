@@ -83,7 +83,8 @@ npm run retag
 
 - Déployé sur **Vercel** : https://limo-ochre.vercel.app
 - Stockage **Vercel Blob** en production (à activer dans le dashboard Vercel)
-- **Cron** d'ingestion automatique : tous les jours à 8h UTC (plan Hobby)
+- **Cron** d'ingestion automatique : **toutes les heures** (5 articles max par passage)
+- Plan Vercel **Pro** requis pour un cron horaire natif ; sur **Hobby** (1×/jour max), utilisez un service externe (voir ci-dessous)
 - Variables d'environnement configurées : `OPENAI_API_KEY`, `CRON_SECRET`
 
 ### Stockage persistant (Vercel Blob)

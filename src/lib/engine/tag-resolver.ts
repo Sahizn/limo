@@ -6,6 +6,7 @@ import { knownAliasMap } from "@/lib/data/known-entities";
 import { getAllTags, saveTags } from "@/lib/storage/tags";
 import { hasOpenAIKey } from "@/lib/engine/synthesize";
 import { normalizeText, tokenSimilarity } from "@/lib/engine/normalize";
+import { isPlausibleEntity } from "@/lib/engine/entity-validation";
 
 const VALID_TYPES: TagType[] = [
   "personne",
@@ -104,6 +105,8 @@ export async function resolveEntities(
   const now = new Date().toISOString();
 
   for (const entity of entities) {
+    if (!isPlausibleEntity(entity.name, entity.type)) continue;
+
     const existing = findExistingTag(tags, entity);
 
     if (existing) {

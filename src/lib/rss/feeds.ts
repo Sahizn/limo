@@ -34,7 +34,7 @@ export const rssFeeds: RssFeedConfig[] = [
   {
     id: "20-minutes",
     name: "20 Minutes",
-    url: "https://www.20minutes.fr/rss/une.xml",
+    url: "https://www.20minutes.fr/feeds/rss-une.xml",
     defaultCategorySlug: "faits-divers",
   },
   {

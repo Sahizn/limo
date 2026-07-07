@@ -1,21 +1,23 @@
 import Link from "next/link";
 import type { Article } from "@/lib/types/article";
+import { SaveArticleButton } from "@/components/saved-articles/save-article-button";
 import { getCategoryBySlug } from "@/lib/data/categories";
 import { formatRelativeTime } from "@/lib/utils";
 
 interface ArticleCardProps {
   article: Article;
-  tagMap?: Map<string, { name: string }>;
+  tagLookup?: Record<string, { name: string }>;
   showSummary?: boolean;
 }
 
-export function ArticleCard({ article, tagMap, showSummary = false }: ArticleCardProps) {
+export function ArticleCard({ article, tagLookup, showSummary = false }: ArticleCardProps) {
   const category = getCategoryBySlug(article.categorySlug);
 
   return (
     <article className="group rounded-2xl border border-border bg-card p-5 transition-colors hover:bg-card-hover sm:p-6">
-      <Link href={`/article/${article.slug}`} className="block">
-        <div className="mb-3 flex items-center gap-2 text-sm">
+      <div className="mb-3 flex items-start justify-between gap-3">
+        <Link href={`/article/${article.slug}`} className="min-w-0 flex-1 block">
+          <div className="mb-3 flex items-center gap-2 text-sm">
           {article.isBreaking && (
             <span className="mr-2 inline-flex items-center gap-1 rounded-full bg-breaking/15 px-2 py-0.5 text-xs font-medium text-breaking">
               <span className="h-1.5 w-1.5 rounded-full bg-breaking" />
@@ -43,12 +45,14 @@ export function ArticleCard({ article, tagMap, showSummary = false }: ArticleCar
             {article.summary[0]}
           </p>
         )}
-      </Link>
+        </Link>
+        <SaveArticleButton article={article} size="sm" />
+      </div>
 
       {article.tagSlugs.length > 0 && (
         <div className="mt-4 flex flex-wrap gap-2">
           {article.tagSlugs.map((tagSlug) => {
-            const tag = tagMap?.get(tagSlug);
+            const tag = tagLookup?.[tagSlug];
             const label = tag?.name ?? tagSlug;
             return (
               <Link

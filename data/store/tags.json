@@ -199,9 +199,9 @@
       "France France"
     ],
     "description": "Actualité liée à France.",
-    "popularity": 4,
+    "popularity": 2,
     "createdAt": "2026-07-04",
-    "lastUsedAt": "2026-07-04T12:17:54.000Z"
+    "lastUsedAt": "2026-07-06T22:46:27.000Z"
   },
   {
     "slug": "paul-seixas",
@@ -274,76 +274,6 @@
     "lastUsedAt": "2026-07-04T07:00:23.000Z"
   },
   {
-    "slug": "les-iles",
-    "name": "Les îles",
-    "type": "lieu",
-    "alias": [],
-    "description": "Actualité liée à Les îles.",
-    "popularity": 1,
-    "createdAt": "2026-07-04",
-    "lastUsedAt": "2026-07-04T07:00:23.000Z"
-  },
-  {
-    "slug": "maladie-des-petits-vaisseaux-cerebraux",
-    "name": "maladie des petits vaisseaux cérébraux",
-    "type": "concept",
-    "alias": [],
-    "description": "Actualité liée à maladie des petits vaisseaux cérébraux.",
-    "popularity": 1,
-    "createdAt": "2026-07-04",
-    "lastUsedAt": "2026-07-04T07:00:22.000Z"
-  },
-  {
-    "slug": "accidents-vasculaires-cerebraux-avc",
-    "name": "accidents vasculaires cérébraux (AVC)",
-    "type": "concept",
-    "alias": [],
-    "description": "Actualité liée à accidents vasculaires cérébraux (AVC).",
-    "popularity": 1,
-    "createdAt": "2026-07-04",
-    "lastUsedAt": "2026-07-04T07:00:22.000Z"
-  },
-  {
-    "slug": "france-des",
-    "name": "France Des",
-    "type": "personne",
-    "alias": [],
-    "description": "France Des est une personnalité française engagée dans des initiatives culturelles et sociales, influençant le débat public.",
-    "popularity": 1,
-    "createdAt": "2026-07-04",
-    "lastUsedAt": "2026-07-04T07:11:00.000Z"
-  },
-  {
-    "slug": "eratures-elevees",
-    "name": "ératures élevées",
-    "type": "personne",
-    "alias": [],
-    "description": "Personnes ayant un niveau d'éducation supérieur, souvent impliquées dans des domaines académiques ou professionnels spécialisés.",
-    "popularity": 1,
-    "createdAt": "2026-07-04",
-    "lastUsedAt": "2026-07-04T07:11:00.000Z"
-  },
-  {
-    "slug": "le-tour",
-    "name": "Le Tour",
-    "type": "personne",
-    "alias": [],
-    "description": "\"Le Tour\" désigne une compétition cycliste annuelle, rassemblant des coureurs du monde entier sur plusieurs étapes.",
-    "popularity": 1,
-    "createdAt": "2026-07-04",
-    "lastUsedAt": "2026-07-04T07:04:24.000Z"
-  },
-  {
-    "slug": "ere-etape",
-    "name": "ère étape",
-    "type": "personne",
-    "alias": [],
-    "description": "\"Une personne franchit une étape clé dans son parcours, marquant un tournant significatif dans sa vie ou sa carrière.\"",
-    "popularity": 1,
-    "createdAt": "2026-07-04",
-    "lastUsedAt": "2026-07-04T07:04:24.000Z"
-  },
-  {
     "slug": "ali-khamenei",
     "name": "Ali Khamenei",
     "type": "personne",
@@ -352,46 +282,6 @@
     "popularity": 2,
     "createdAt": "2026-07-04",
     "lastUsedAt": "2026-07-04T11:37:31.000Z"
-  },
-  {
-    "slug": "orient-la",
-    "name": "Orient La",
-    "type": "personne",
-    "alias": [],
-    "description": "Orient La est un expert en géopolitique, analysant les enjeux du Moyen-Orient et leurs impacts sur la France.",
-    "popularity": 1,
-    "createdAt": "2026-07-04",
-    "lastUsedAt": "2026-07-04T06:36:22.000Z"
-  },
-  {
-    "slug": "emes-economiques",
-    "name": "èmes économiques",
-    "type": "personne",
-    "alias": [],
-    "description": "Analyse des tendances économiques et des politiques publiques par des experts et économistes français.",
-    "popularity": 1,
-    "createdAt": "2026-07-04",
-    "lastUsedAt": "2026-07-04T06:34:00.000Z"
-  },
-  {
-    "slug": "esident-subianto",
-    "name": "ésident Subianto",
-    "type": "personne",
-    "alias": [],
-    "description": "Prabowo Subianto, homme politique indonésien, ancien général et ministre de la Défense, candidat à la présidence.",
-    "popularity": 1,
-    "createdAt": "2026-07-04",
-    "lastUsedAt": "2026-07-04T06:34:00.000Z"
-  },
-  {
-    "slug": "eismes-la",
-    "name": "éismes La",
-    "type": "personne",
-    "alias": [],
-    "description": "Éismes La est une personnalité influente dans le domaine de la culture et des arts en France.",
-    "popularity": 1,
-    "createdAt": "2026-07-04",
-    "lastUsedAt": "2026-07-04T06:21:23.000Z"
   },
   {
     "slug": "ene-rebecca",
@@ -430,16 +320,6 @@
     "alias": [],
     "description": "Paris, capitale de la France, est connue pour son histoire, sa culture, ses monuments emblématiques et sa diversité.",
     "popularity": 2,
-    "createdAt": "2026-07-04",
-    "lastUsedAt": "2026-07-04T04:45:00Z"
-  },
-  {
-    "slug": "le-parisien",
-    "name": "Le Parisien",
-    "type": "personne",
-    "alias": [],
-    "description": "\"Le Parisien\" est un quotidien français d'information générale, fondé en 1944, couvrant l'actualité nationale et internationale.",
-    "popularity": 1,
     "createdAt": "2026-07-04",
     "lastUsedAt": "2026-07-04T04:45:00Z"
   },
@@ -486,26 +366,6 @@
     "lastUsedAt": "2026-07-04T03:20:00Z"
   },
   {
-    "slug": "la-banque",
-    "name": "La Banque",
-    "type": "personne",
-    "alias": [],
-    "description": "\"La Banque\" est une institution financière qui gère des dépôts, accorde des crédits et facilite les transactions économiques.",
-    "popularity": 1,
-    "createdAt": "2026-07-04",
-    "lastUsedAt": "2026-07-04T02:10:00Z"
-  },
-  {
-    "slug": "les-ecologistes",
-    "name": "Les écologistes",
-    "type": "personne",
-    "alias": [],
-    "description": "Les écologistes militent pour la protection de l'environnement et la promotion de pratiques durables en France.",
-    "popularity": 1,
-    "createdAt": "2026-07-04",
-    "lastUsedAt": "2026-07-04T01:00:00Z"
-  },
-  {
     "slug": "ethereum",
     "name": "Ethereum",
     "type": "cryptomonnaie",
@@ -539,11 +399,13 @@
     "slug": "coupe-du-monde",
     "name": "Coupe du monde",
     "type": "evenement",
-    "alias": [],
+    "alias": [
+      "Coupe du Monde de la FIFA"
+    ],
     "description": "La Coupe du Monde est un tournoi international de football, réunissant les meilleures équipes nationales tous les quatre ans.",
-    "popularity": 3,
+    "popularity": 1,
     "createdAt": "2026-07-04",
-    "lastUsedAt": "2026-07-05T21:16:03.000Z"
+    "lastUsedAt": "2026-07-06T22:07:34.000Z"
   },
   {
     "slug": "chloe-aldrovandi",
@@ -551,16 +413,6 @@
     "type": "personne",
     "alias": [],
     "description": "Chloé Aldrovandi est une journaliste française spécialisée dans l'actualité politique et sociale.",
-    "popularity": 1,
-    "createdAt": "2026-07-04",
-    "lastUsedAt": "2026-07-04T11:49:56.000Z"
-  },
-  {
-    "slug": "corse-le",
-    "name": "Corse Le",
-    "type": "personne",
-    "alias": [],
-    "description": "Corse Le est un homme politique français, engagé dans la défense des intérêts corses et la promotion de l'autonomie de l'île.",
     "popularity": 1,
     "createdAt": "2026-07-04",
     "lastUsedAt": "2026-07-04T11:49:56.000Z"
@@ -581,16 +433,6 @@
     "type": "lieu",
     "alias": [],
     "description": "La Grande Mosalla est un lieu de culte musulman situé à Strasbourg, connu pour son architecture moderne et ses activités communautaires.",
-    "popularity": 1,
-    "createdAt": "2026-07-04",
-    "lastUsedAt": "2026-07-04T11:37:31.000Z"
-  },
-  {
-    "slug": "teheran-les",
-    "name": "Téhéran Les",
-    "type": "personne",
-    "alias": [],
-    "description": "Téhéran Les est un expert en relations internationales, spécialisé dans les dynamiques géopolitiques du Moyen-Orient.",
     "popularity": 1,
     "createdAt": "2026-07-04",
     "lastUsedAt": "2026-07-04T11:37:31.000Z"
@@ -629,11 +471,13 @@
     "slug": "union-europeenne",
     "name": "Union européenne",
     "type": "concept",
-    "alias": [],
+    "alias": [
+      "UE"
+    ],
     "description": "L'Union européenne est une organisation politique et économique regroupant 27 États membres en Europe, favorisant la coopération.",
     "popularity": 1,
     "createdAt": "2026-07-04",
-    "lastUsedAt": "2026-07-04T11:17:30.000Z"
+    "lastUsedAt": "2026-07-06T20:37:47.000Z"
   },
   {
     "slug": "lampedusa-lors",
@@ -666,26 +510,6 @@
     "lastUsedAt": "2026-07-04T12:17:54.000Z"
   },
   {
-    "slug": "la-rochelle",
-    "name": "La Rochelle",
-    "type": "lieu",
-    "alias": [],
-    "description": "La Rochelle est une ville portuaire de la côte atlantique, connue pour son vieux port et son patrimoine historique.",
-    "popularity": 1,
-    "createdAt": "2026-07-04",
-    "lastUsedAt": "2026-07-04T12:15:00.000Z"
-  },
-  {
-    "slug": "festival-du-film",
-    "name": "festival du film",
-    "type": "evenement",
-    "alias": [],
-    "description": "Le festival du film présente des projections de films, des rencontres avec des réalisateurs et des débats autour du cinéma.",
-    "popularity": 1,
-    "createdAt": "2026-07-04",
-    "lastUsedAt": "2026-07-04T12:15:00.000Z"
-  },
-  {
     "slug": "drome",
     "name": "Drôme",
     "type": "lieu",
@@ -701,16 +525,6 @@
     "type": "technologie",
     "alias": [],
     "description": "Le Canadair est un avion amphibie utilisé pour la lutte contre les incendies, capable de larguer de l'eau sur les feux.",
-    "popularity": 1,
-    "createdAt": "2026-07-04",
-    "lastUsedAt": "2026-07-04T12:08:18.000Z"
-  },
-  {
-    "slug": "eriennes-un",
-    "name": "ériennes Un",
-    "type": "personne",
-    "alias": [],
-    "description": "Ériennes Un est une personnalité engagée dans les droits humains et la justice sociale en France.",
     "popularity": 1,
     "createdAt": "2026-07-04",
     "lastUsedAt": "2026-07-04T12:08:18.000Z"
@@ -810,16 +624,6 @@
     "lastUsedAt": "2026-07-04T12:05:26.000Z"
   },
   {
-    "slug": "les-capverdiens",
-    "name": "Les Capverdiens",
-    "type": "personne",
-    "alias": [],
-    "description": "Les Capverdiens sont les habitants de l'archipel du Cap-Vert, situé au large des côtes africaines.",
-    "popularity": 1,
-    "createdAt": "2026-07-04",
-    "lastUsedAt": "2026-07-04T12:05:26.000Z"
-  },
-  {
     "slug": "bresil",
     "name": "Brésil",
     "type": "lieu",
@@ -860,24 +664,16 @@
     "lastUsedAt": "2026-07-05T21:16:03.000Z"
   },
   {
-    "slug": "la-selecao",
-    "name": "La Seleçao",
-    "type": "personne",
-    "alias": [],
-    "description": "\"La Seleçao\" désigne l'équipe nationale de football du Brésil, reconnue pour ses succès en Coupe du Monde.",
-    "popularity": 1,
-    "createdAt": "2026-07-05",
-    "lastUsedAt": "2026-07-05T21:16:03.000Z"
-  },
-  {
     "slug": "donald-trump",
     "name": "Donald Trump",
     "type": "personne",
-    "alias": [],
+    "alias": [
+      "Trump"
+    ],
     "description": "Donald Trump, ancien président des États-Unis, est une figure politique controversée, connue pour ses positions populistes.",
-    "popularity": 1,
+    "popularity": 2,
     "createdAt": "2026-07-05",
-    "lastUsedAt": "2026-07-05T21:16:03.000Z"
+    "lastUsedAt": "2026-07-06T22:48:32.000Z"
   },
   {
     "slug": "pyrenees-orientales",
@@ -885,16 +681,6 @@
     "type": "lieu",
     "alias": [],
     "description": "Les Pyrénées-Orientales, département du sud de la France, offrent montagnes, plages et patrimoine culturel riche.",
-    "popularity": 1,
-    "createdAt": "2026-07-05",
-    "lastUsedAt": "2026-07-05T21:13:16.000Z"
-  },
-  {
-    "slug": "es-actuellement",
-    "name": "és Actuellement",
-    "type": "personne",
-    "alias": [],
-    "description": "\"État des lieux des personnalités influentes et des événements marquants en France, analysés en temps réel.\"",
     "popularity": 1,
     "createdAt": "2026-07-05",
     "lastUsedAt": "2026-07-05T21:13:16.000Z"
@@ -1050,5 +836,515 @@
     "popularity": 1,
     "createdAt": "2026-07-05",
     "lastUsedAt": "2026-07-05T20:50:57.000Z"
+  },
+  {
+    "slug": "no-kids",
+    "name": "No Kids",
+    "type": "personne",
+    "alias": [],
+    "description": "Actualité liée à No Kids.",
+    "popularity": 1,
+    "createdAt": "2026-07-06",
+    "lastUsedAt": "2026-07-06T08:50:13.000Z"
+  },
+  {
+    "slug": "eme-epoque",
+    "name": "ême époque",
+    "type": "personne",
+    "alias": [],
+    "description": "Actualité liée à ême époque.",
+    "popularity": 1,
+    "createdAt": "2026-07-06",
+    "lastUsedAt": "2026-07-06T08:42:49.000Z"
+  },
+  {
+    "slug": "laurent-nunez",
+    "name": "Laurent Nuñez",
+    "type": "personne",
+    "alias": [],
+    "description": "Actualité liée à Laurent Nuñez.",
+    "popularity": 2,
+    "createdAt": "2026-07-06",
+    "lastUsedAt": "2026-07-06T08:42:49.000Z"
+  },
+  {
+    "slug": "cedric-jubillar",
+    "name": "Cédric Jubillar",
+    "type": "personne",
+    "alias": [],
+    "description": "Actualité liée à Cédric Jubillar.",
+    "popularity": 1,
+    "createdAt": "2026-07-06",
+    "lastUsedAt": "2026-07-06T08:42:04.000Z"
+  },
+  {
+    "slug": "es-mexique",
+    "name": "ès Mexique",
+    "type": "personne",
+    "alias": [],
+    "description": "Actualité liée à ès Mexique.",
+    "popularity": 1,
+    "createdAt": "2026-07-06",
+    "lastUsedAt": "2026-07-06T08:41:03.000Z"
+  },
+  {
+    "slug": "angleterre-coupe",
+    "name": "Angleterre Coupe",
+    "type": "personne",
+    "alias": [],
+    "description": "Actualité liée à Angleterre Coupe.",
+    "popularity": 1,
+    "createdAt": "2026-07-06",
+    "lastUsedAt": "2026-07-06T08:41:03.000Z"
+  },
+  {
+    "slug": "jude-bellingham",
+    "name": "Jude Bellingham",
+    "type": "personne",
+    "alias": [],
+    "description": "Actualité liée à Jude Bellingham.",
+    "popularity": 1,
+    "createdAt": "2026-07-06",
+    "lastUsedAt": "2026-07-06T08:41:03.000Z"
+  },
+  {
+    "slug": "es-elev",
+    "name": "ès élev",
+    "type": "personne",
+    "alias": [],
+    "description": "Actualité liée à ès élev.",
+    "popularity": 1,
+    "createdAt": "2026-07-06",
+    "lastUsedAt": "2026-07-06T08:36:00.000Z"
+  },
+  {
+    "slug": "cristiano-ronaldo",
+    "name": "Cristiano Ronaldo",
+    "type": "personne",
+    "alias": [
+      "CR7"
+    ],
+    "description": "Cristiano Ronaldo, footballeur portugais, est considéré comme l'un des meilleurs joueurs de l'histoire du football.",
+    "popularity": 3,
+    "createdAt": "2026-07-06",
+    "lastUsedAt": "2026-07-06T22:07:34.000Z"
+  },
+  {
+    "slug": "lamine-yamal",
+    "name": "Lamine Yamal",
+    "type": "personne",
+    "alias": [],
+    "description": "Lamine Yamal, jeune footballeur espagnol, évolue au FC Barcelone et est considéré comme un talent prometteur.",
+    "popularity": 2,
+    "createdAt": "2026-07-06",
+    "lastUsedAt": "2026-07-06T22:07:34.000Z"
+  },
+  {
+    "slug": "portugal",
+    "name": "Portugal",
+    "type": "lieu",
+    "alias": [
+      "Seleção"
+    ],
+    "description": "Le Portugal, pays d'Europe du Sud, est connu pour ses plages, son patrimoine historique et sa culture riche.",
+    "popularity": 3,
+    "createdAt": "2026-07-06",
+    "lastUsedAt": "2026-07-06T22:07:34.000Z"
+  },
+  {
+    "slug": "espagne",
+    "name": "Espagne",
+    "type": "lieu",
+    "alias": [
+      "La Roja"
+    ],
+    "description": "L'Espagne, pays d'Europe du Sud, est connue pour sa riche culture, ses plages et son histoire variée.",
+    "popularity": 3,
+    "createdAt": "2026-07-06",
+    "lastUsedAt": "2026-07-06T22:07:34.000Z"
+  },
+  {
+    "slug": "coupe-du-monde-2026",
+    "name": "Coupe du Monde 2026",
+    "type": "evenement",
+    "alias": [],
+    "description": "La Coupe du Monde 2026 se déroulera aux États-Unis, Canada et Mexique, avec 48 équipes participantes.",
+    "popularity": 2,
+    "createdAt": "2026-07-06",
+    "lastUsedAt": "2026-07-06T20:49:03.000Z"
+  },
+  {
+    "slug": "dallas",
+    "name": "Dallas",
+    "type": "lieu",
+    "alias": [],
+    "description": "Dallas, ville du Texas, est connue pour son rôle dans l'industrie pétrolière et son influence culturelle.",
+    "popularity": 2,
+    "createdAt": "2026-07-06",
+    "lastUsedAt": "2026-07-06T22:07:34.000Z"
+  },
+  {
+    "slug": "8e-de-finale",
+    "name": "8e de finale",
+    "type": "evenement",
+    "alias": [],
+    "description": "Les 8e de finale désignent le tour éliminatoire d'un tournoi, où les équipes s'affrontent pour accéder aux quarts de finale.",
+    "popularity": 1,
+    "createdAt": "2026-07-06",
+    "lastUsedAt": "2026-07-06T20:49:03.000Z"
+  },
+  {
+    "slug": "dallas-stadium",
+    "name": "Dallas Stadium",
+    "type": "lieu",
+    "alias": [],
+    "description": "Le Dallas Stadium, situé à Arlington, Texas, est un complexe sportif accueillant des événements de football américain et concerts.",
+    "popularity": 1,
+    "createdAt": "2026-07-06",
+    "lastUsedAt": "2026-07-06T20:43:10.000Z"
+  },
+  {
+    "slug": "etats-unis",
+    "name": "États-Unis",
+    "type": "personne",
+    "alias": [
+      "USA"
+    ],
+    "description": "Un homme politique américain a annoncé de nouvelles mesures économiques pour soutenir les familles à faible revenu.",
+    "popularity": 3,
+    "createdAt": "2026-07-06",
+    "lastUsedAt": "2026-07-06T22:48:32.000Z"
+  },
+  {
+    "slug": "belgique",
+    "name": "Belgique",
+    "type": "personne",
+    "alias": [],
+    "description": "La Belgique, pays d'Europe occidentale, est connue pour sa diversité culturelle, ses langues officielles et sa gastronomie.",
+    "popularity": 2,
+    "createdAt": "2026-07-06",
+    "lastUsedAt": "2026-07-06T22:43:28.000Z"
+  },
+  {
+    "slug": "balogun",
+    "name": "Balogun",
+    "type": "personne",
+    "alias": [
+      "Folarin Balogun"
+    ],
+    "description": "Balogun est un footballeur professionnel, évoluant en attaque et représentant l'équipe nationale de son pays.",
+    "popularity": 2,
+    "createdAt": "2026-07-06",
+    "lastUsedAt": "2026-07-06T22:43:28.000Z"
+  },
+  {
+    "slug": "trump",
+    "name": "Trump",
+    "type": "personne",
+    "alias": [
+      "Donald Trump"
+    ],
+    "description": "Donald Trump, 45e président des États-Unis, est un homme d'affaires et personnalité politique controversée.",
+    "popularity": 1,
+    "createdAt": "2026-07-06",
+    "lastUsedAt": "2026-07-06T20:43:10.000Z"
+  },
+  {
+    "slug": "jean-pormanove",
+    "name": "Jean Pormanove",
+    "type": "personne",
+    "alias": [
+      "Pormanove"
+    ],
+    "description": "Jean Pormanove est un expert en économie, connu pour ses analyses sur les politiques publiques et les enjeux sociaux en France.",
+    "popularity": 1,
+    "createdAt": "2026-07-06",
+    "lastUsedAt": "2026-07-06T20:40:58.000Z"
+  },
+  {
+    "slug": "naruto",
+    "name": "Naruto",
+    "type": "personne",
+    "alias": [],
+    "description": "Naruto Uzumaki, ninja de Konoha, rêve de devenir Hokage tout en luttant contre des ennemis et en forgeant des amitiés.",
+    "popularity": 1,
+    "createdAt": "2026-07-06",
+    "lastUsedAt": "2026-07-06T20:40:58.000Z"
+  },
+  {
+    "slug": "safine",
+    "name": "Safine",
+    "type": "personne",
+    "alias": [],
+    "description": "Safine est une personnalité publique française, engagée dans des causes sociales et culturelles, souvent active sur les réseaux.",
+    "popularity": 1,
+    "createdAt": "2026-07-06",
+    "lastUsedAt": "2026-07-06T20:40:58.000Z"
+  },
+  {
+    "slug": "nice",
+    "name": "Nice",
+    "type": "lieu",
+    "alias": [],
+    "description": "Nice, située sur la Côte d'Azur, est connue pour sa Promenade des Anglais et son climat méditerranéen.",
+    "popularity": 1,
+    "createdAt": "2026-07-06",
+    "lastUsedAt": "2026-07-06T20:40:58.000Z"
+  },
+  {
+    "slug": "es-evoque",
+    "name": "és évoque",
+    "type": "personne",
+    "alias": [],
+    "description": "\"Évoque\" désigne une personne qui mentionne ou fait référence à un sujet, une idée ou un événement dans un contexte donné.",
+    "popularity": 1,
+    "createdAt": "2026-07-06",
+    "lastUsedAt": "2026-07-06T20:40:58.000Z"
+  },
+  {
+    "slug": "equateur",
+    "name": "Équateur",
+    "type": "lieu",
+    "alias": [],
+    "description": "L'Équateur, pays d'Amérique du Sud, est connu pour sa biodiversité, ses Andes et les îles Galápagos.",
+    "popularity": 1,
+    "createdAt": "2026-07-06",
+    "lastUsedAt": "2026-07-06T20:39:34.000Z"
+  },
+  {
+    "slug": "macron",
+    "name": "Emmanuel Macron",
+    "type": "personne",
+    "alias": [
+      "Macron"
+    ],
+    "description": "Emmanuel Macron, président de la République française depuis 2017, est un ancien banquier et homme politique centriste.",
+    "popularity": 1,
+    "createdAt": "2026-07-06",
+    "lastUsedAt": "2026-07-06T20:37:47.000Z"
+  },
+  {
+    "slug": "syrie",
+    "name": "Syrie",
+    "type": "lieu",
+    "alias": [],
+    "description": "La Syrie est un pays du Moyen-Orient, marqué par un conflit armé depuis 2011, avec des impacts humanitaires majeurs.",
+    "popularity": 1,
+    "createdAt": "2026-07-06",
+    "lastUsedAt": "2026-07-06T20:37:47.000Z"
+  },
+  {
+    "slug": "bachar-el-assad",
+    "name": "Bachar El Assad",
+    "type": "personne",
+    "alias": [
+      "Bachar al-Assad"
+    ],
+    "description": "Bachar El Assad est le président de la Syrie, en fonction depuis 2000, au cœur d'un conflit civil depuis 2011.",
+    "popularity": 1,
+    "createdAt": "2026-07-06",
+    "lastUsedAt": "2026-07-06T20:37:47.000Z"
+  },
+  {
+    "slug": "ahmed-al-charaa",
+    "name": "Ahmed Al Charaa",
+    "type": "personne",
+    "alias": [],
+    "description": "Ahmed Al Charaa est un expert en politique internationale, souvent cité pour ses analyses sur les relations géopolitiques.",
+    "popularity": 1,
+    "createdAt": "2026-07-06",
+    "lastUsedAt": "2026-07-06T20:37:47.000Z"
+  },
+  {
+    "slug": "syrie-emmanuel",
+    "name": "Syrie Emmanuel",
+    "type": "personne",
+    "alias": [],
+    "description": "Emmanuel, acteur clé en Syrie, s'implique dans les discussions politiques et humanitaires liées au conflit.",
+    "popularity": 1,
+    "createdAt": "2026-07-06",
+    "lastUsedAt": "2026-07-06T20:37:47.000Z"
+  },
+  {
+    "slug": "bachar-el",
+    "name": "Bachar El",
+    "type": "personne",
+    "alias": [],
+    "description": "Bachar El est un homme politique syrien, président de la Syrie depuis 2000, connu pour son régime autoritaire.",
+    "popularity": 1,
+    "createdAt": "2026-07-06",
+    "lastUsedAt": "2026-07-06T20:37:47.000Z"
+  },
+  {
+    "slug": "parti-democrate",
+    "name": "Parti démocrate",
+    "type": "entreprise",
+    "alias": [
+      "Démocrates"
+    ],
+    "description": "Le Parti démocrate est un parti politique américain, centré sur des valeurs progressistes et sociales.",
+    "popularity": 1,
+    "createdAt": "2026-07-06",
+    "lastUsedAt": "2026-07-06T22:48:32.000Z"
+  },
+  {
+    "slug": "elections-de-mi-mandat",
+    "name": "élections de mi-mandat",
+    "type": "evenement",
+    "alias": [
+      "midterms"
+    ],
+    "description": "Les élections de mi-mandat se tiennent aux États-Unis, influençant la composition du Congrès et des gouvernements locaux.",
+    "popularity": 1,
+    "createdAt": "2026-07-06",
+    "lastUsedAt": "2026-07-06T22:48:32.000Z"
+  },
+  {
+    "slug": "l-il-du-20-heures",
+    "name": "L'Œil du 20 heures",
+    "type": "evenement",
+    "alias": [],
+    "description": "\"L'Œil du 20 heures\" couvre les événements marquants de la journée, offrant une analyse des faits d'actualité en France.",
+    "popularity": 1,
+    "createdAt": "2026-07-06",
+    "lastUsedAt": "2026-07-06T22:46:27.000Z"
+  },
+  {
+    "slug": "disclose",
+    "name": "Disclose",
+    "type": "entreprise",
+    "alias": [],
+    "description": "Disclose est une entreprise de journalisme d'investigation qui publie des enquêtes sur des sujets d'intérêt public.",
+    "popularity": 1,
+    "createdAt": "2026-07-06",
+    "lastUsedAt": "2026-07-06T22:46:27.000Z"
+  },
+  {
+    "slug": "edia-disclose",
+    "name": "édia Disclose",
+    "type": "personne",
+    "alias": [],
+    "description": "Édia Disclose est une journaliste spécialisée dans l'investigation et la transparence des données publiques en France.",
+    "popularity": 1,
+    "createdAt": "2026-07-06",
+    "lastUsedAt": "2026-07-06T22:46:27.000Z"
+  },
+  {
+    "slug": "fifa",
+    "name": "FIFA",
+    "type": "entreprise",
+    "alias": [],
+    "description": "La FIFA, Fédération Internationale de Football Association, régule le football mondial et organise la Coupe du Monde.",
+    "popularity": 1,
+    "createdAt": "2026-07-06",
+    "lastUsedAt": "2026-07-06T22:43:28.000Z"
+  },
+  {
+    "slug": "mondial-2026",
+    "name": "Mondial 2026",
+    "type": "evenement",
+    "alias": [
+      "Coupe du Monde 2026"
+    ],
+    "description": "Le Mondial 2026 se déroulera aux États-Unis, Canada et Mexique, avec 48 équipes participantes et des matchs dans plusieurs villes.",
+    "popularity": 1,
+    "createdAt": "2026-07-06",
+    "lastUsedAt": "2026-07-06T22:43:28.000Z"
+  },
+  {
+    "slug": "seattle",
+    "name": "Seattle",
+    "type": "lieu",
+    "alias": [],
+    "description": "Seattle, ville du nord-ouest des États-Unis, est connue pour son port, sa culture du café et la Space Needle.",
+    "popularity": 1,
+    "createdAt": "2026-07-06",
+    "lastUsedAt": "2026-07-06T22:43:28.000Z"
+  },
+  {
+    "slug": "8es-de-finale",
+    "name": "8es de finale",
+    "type": "evenement",
+    "alias": [
+      "huitièmes de finale"
+    ],
+    "description": "Les 8es de finale désignent le tour éliminatoire d'un tournoi, où les équipes s'affrontent pour accéder aux quarts.",
+    "popularity": 1,
+    "createdAt": "2026-07-06",
+    "lastUsedAt": "2026-07-06T22:43:28.000Z"
+  },
+  {
+    "slug": "americain-balogun",
+    "name": "Américain Balogun",
+    "type": "personne",
+    "alias": [],
+    "description": "Américain Balogun est un footballeur professionnel, évoluant au poste d'attaquant, connu pour sa vitesse et son talent.",
+    "popularity": 1,
+    "createdAt": "2026-07-06",
+    "lastUsedAt": "2026-07-06T22:43:28.000Z"
+  },
+  {
+    "slug": "emique-balogun",
+    "name": "émique Balogun",
+    "type": "personne",
+    "alias": [],
+    "description": "Émique Balogun est un expert en technologie et innovation, reconnu pour ses contributions dans le secteur numérique en France.",
+    "popularity": 1,
+    "createdAt": "2026-07-06",
+    "lastUsedAt": "2026-07-06T22:43:28.000Z"
+  },
+  {
+    "slug": "knesset",
+    "name": "Knesset",
+    "type": "lieu",
+    "alias": [
+      "Parlement israélien"
+    ],
+    "description": "Le Knesset est le parlement d'Israël, situé à Jérusalem, où se prennent les décisions législatives du pays.",
+    "popularity": 1,
+    "createdAt": "2026-07-06",
+    "lastUsedAt": "2026-07-06T22:33:48.000Z"
+  },
+  {
+    "slug": "benjamin-netanyahu",
+    "name": "Benjamin Netanyahu",
+    "type": "personne",
+    "alias": [
+      "Premier ministre israélien"
+    ],
+    "description": "Benjamin Netanyahu est un homme politique israélien, ancien Premier ministre, connu pour ses positions sur la sécurité et la diplomatie.",
+    "popularity": 1,
+    "createdAt": "2026-07-06",
+    "lastUsedAt": "2026-07-06T22:33:48.000Z"
+  },
+  {
+    "slug": "hamas",
+    "name": "Hamas",
+    "type": "concept",
+    "alias": [],
+    "description": "Hamas est un mouvement islamiste palestinien, fondé en 1987, engagé dans la résistance contre Israël et la gouvernance de Gaza.",
+    "popularity": 1,
+    "createdAt": "2026-07-06",
+    "lastUsedAt": "2026-07-06T22:33:48.000Z"
+  },
+  {
+    "slug": "israel",
+    "name": "Israël",
+    "type": "lieu",
+    "alias": [],
+    "description": "Israël, pays du Moyen-Orient, est bordé par la Méditerranée et partage des frontières avec la Palestine, le Liban, la Syrie et la Jordanie.",
+    "popularity": 1,
+    "createdAt": "2026-07-06",
+    "lastUsedAt": "2026-07-06T22:33:48.000Z"
+  },
+  {
+    "slug": "mikel-merino",
+    "name": "Mikel Merino",
+    "type": "personne",
+    "alias": [],
+    "description": "Mikel Merino est un footballeur espagnol évoluant au poste de milieu de terrain, actuellement à la Real Sociedad.",
+    "popularity": 1,
+    "createdAt": "2026-07-06",
+    "lastUsedAt": "2026-07-06T22:07:34.000Z"
   }
 ]

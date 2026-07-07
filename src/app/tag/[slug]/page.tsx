@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import { ArticleCard } from "@/components/articles/article-card";
 import { getArticlesByTag } from "@/lib/storage/articles";
 import { getTagBySlug, getAllTags } from "@/lib/storage/tags";
+import { buildTagMap } from "@/lib/storage/tag-map";
 import {
   getRelatedTags,
   getTagArticleCount,
@@ -42,8 +43,7 @@ export default async function TagPage({ params }: PageProps) {
     getTagArticleCount(slug),
   ]);
 
-  const allTags = await getAllTags();
-  const tagMap = new Map(allTags.map((t) => [t.slug, t]));
+  const tagLookup = await buildTagMap();
 
   return (
     <div>
@@ -112,7 +112,7 @@ export default async function TagPage({ params }: PageProps) {
               <ArticleCard
                 key={article.slug}
                 article={article}
-                tagMap={tagMap}
+                tagLookup={tagLookup}
               />
             ))}
           </div>

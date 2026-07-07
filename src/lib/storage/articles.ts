@@ -3,14 +3,14 @@ import { readJsonFile, writeJsonFile } from "@/lib/storage/json";
 import { seedArticles } from "@/lib/data/seed-articles";
 
 const FILE = "articles.json";
-export const MAX_ARTICLE_AGE_DAYS = 7;
+export const MAX_ARTICLE_AGE_HOURS = 24;
 
 async function getStoredArticles(): Promise<Article[]> {
   return readJsonFile<Article[]>(FILE, seedArticles);
 }
 
 function isRecentArticle(article: Article): boolean {
-  const cutoff = Date.now() - MAX_ARTICLE_AGE_DAYS * 24 * 60 * 60 * 1000;
+  const cutoff = Date.now() - MAX_ARTICLE_AGE_HOURS * 60 * 60 * 1000;
   return new Date(article.publishedAt).getTime() >= cutoff;
 }
 

@@ -27,10 +27,11 @@ export async function POST(request: NextRequest) {
 
     const result = await runIngestion({ maxArticles });
 
-    revalidatePath("/");
-    revalidatePath("/categories");
-    revalidatePath("/recherche");
-    revalidatePath("/tags");
+    revalidatePath("/", "layout");
+
+    for (const slug of result.articles) {
+      revalidatePath(`/article/${slug}`);
+    }
 
     return NextResponse.json({
       success: true,

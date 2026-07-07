@@ -5,7 +5,7 @@ import type { RssFeedConfig, RssFeedItem } from "@/lib/rss/types";
 const parser = new Parser({
   timeout: 15000,
   headers: {
-    "User-Agent": "Limo/1.0 (French news aggregator; +https://limo.news)",
+    "User-Agent": "Limo/1.0 (French news aggregator; +https://limo-ochre.vercel.app)",
     Accept: "application/rss+xml, application/xml, text/xml",
   },
 });

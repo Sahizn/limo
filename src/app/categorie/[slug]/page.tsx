@@ -8,6 +8,8 @@ import {
   getFamilyBySlug,
 } from "@/lib/data/categories";
 import { getArticlesByCategory } from "@/lib/storage/articles";
+import { buildTagMap } from "@/lib/storage/tag-map";
+import { CategoryFavoriteHeader } from "@/components/favorites/category-favorite-header";
 
 export const revalidate = 60;
 
@@ -35,7 +37,10 @@ export default async function CategoryPage({ params }: PageProps) {
   if (!category) notFound();
 
   const family = getFamilyBySlug(category.family);
-  const articles = await getArticlesByCategory(slug);
+  const [articles, tagLookup] = await Promise.all([
+    getArticlesByCategory(slug),
+    buildTagMap(),
+  ]);
   const relatedCategories = getCategoriesByFamily(category.family).filter(
     (c) => c.slug !== slug
   );
@@ -57,21 +62,38 @@ export default async function CategoryPage({ params }: PageProps) {
       </nav>
 
       <header className="mb-10">
-        <h1 className="text-2xl font-semibold tracking-tight sm:text-3xl">
-          {category.name}
-        </h1>
-        <p className="mt-2 text-muted-foreground">{category.description}</p>
+        <div className="flex items-start justify-between gap-4">
+          <div>
+            <h1 className="text-2xl font-semibold tracking-tight sm:text-3xl">
+              {category.name}
+            </h1>
+            <p className="mt-2 text-muted-foreground">{category.description}</p>
+          </div>
+          <CategoryFavoriteHeader
+            categorySlug={category.slug}
+            categoryName={category.name}
+          />
+        </div>
       </header>
 
       {articles.length > 0 ? (
         <div className="mb-12 flex flex-col gap-4">
           {articles.map((article) => (
-            <ArticleCard key={article.slug} article={article} showSummary />
+            <ArticleCard
+              key={article.slug}
+              article={article}
+              tagLookup={tagLookup}
+              showSummary
+            />
           ))}
         </div>
       ) : (
-        <p className="mb-12 rounded-2xl border border-border bg-card p-6 text-muted-foreground">
-          Aucun article pour le moment. Lancez <code className="text-accent">npm run ingest</code> pour alimenter Limo.
+        <p className="mb-12 rounded-2xl border border-border bg-card p-8 text-center text-muted-foreground">
+          Aucun article dans cette catégorie pour le moment. Consultez{" "}
+          <Link href="/" className="text-accent hover:underline">
+            l&apos;accueil
+          </Link>{" "}
+          ou une autre catégorie.
         </p>
       )}
 
